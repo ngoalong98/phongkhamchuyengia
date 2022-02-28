@@ -1,0 +1,3537 @@
+# Translation of Plugins - SEOPress, on-site SEO - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - SEOPress, on-site SEO - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-06 18:02:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - SEOPress, on-site SEO - Stable (latest release)\n"
+
+#: inc/admin/admin.php:66
+msgid "%%post_date%% (alias %%date%%)"
+msgstr "%%post_date%% (hoặc %%date%%)"
+
+#: inc/admin/admin.php:62
+msgid "%%post_excerpt%% (alias %%excerpt%%)"
+msgstr "%%post_excerpt%% (hoặc %%excerpt%%)"
+
+#: inc/admin/admin.php:60
+msgid "%%tagline%% (alias %%sitedesc%%)"
+msgstr "%%tagline%% (hoặc %%sitedesc%%)"
+
+#: inc/admin/admin.php:5157
+msgid "This code will be added just after the closing body tag of your page."
+msgstr "Code này sẽ được thêm vào ngay trước khi đóng tag body của web."
+
+#: inc/admin/admin.php:3332 inc/admin/admin.php:3336 inc/admin/admin.php:3339
+msgid "Click to display any SEO metaboxes for this taxonomy"
+msgstr "Nhấp vào để hiển thị hộp cấu hình SEO cho mục taxonomy này."
+
+#: inc/admin/admin.php:3329 inc/admin/admin.php:3333 inc/admin/admin.php:3335
+#: inc/admin/admin.php:3340
+msgid "Click to hide any SEO metaboxes for this taxonomy"
+msgstr "Nhấp vào để ẩn hộp cấu hình SEO cho taxonomy này."
+
+#: inc/admin/admin.php:5154
+msgid "Additional tracking code field added to body footer"
+msgstr "Mã theo dõi bổ sung được thêm vào phần chân trang"
+
+#: inc/admin/admin.php:5154
+msgid "Paste your tracking code here (body footer)"
+msgstr "Dán mã theo dõi của bạn ở đây (phần chân trang)"
+
+#: inc/admin/admin.php:2049
+msgid "[BODY (FOOTER)] Add an additional tracking code (like Google Tag Manager...)"
+msgstr "[BODY (FOOTER)] Thêm mã theo dõi bổ sung (như Google Tag Manager...)"
+
+#: seopress.php:556
+msgid "Docs"
+msgstr "Tài liệu"
+
+#: seopress.php:557
+msgid "Configuration Wizard"
+msgstr "Cấu hình qua các bước"
+
+#: inc/admin/admin-wizard.php:102 seopress.php:312
+msgid "Export completed!"
+msgstr "Xuất ra hoàn tất!"
+
+#: inc/admin/admin.php:896 inc/admin/admin.php:916
+#: inc/admin/admin-wizard.php:379 inc/admin/admin-wizard.php:397
+msgid "Meta Robots (noindex or nofollow)"
+msgstr "Meta Robots (noindex hoặc nofollow)"
+
+#: inc/admin/admin.php:702
+msgid "Export metadata to a CSV"
+msgstr "Xuất metadata ra file CSV"
+
+#: inc/admin/admin.php:889 inc/admin/admin-wizard.php:372
+msgid "Import posts metadata from Squirrly SEO"
+msgstr "Nhập dữ liệu bài viết từ Squirrly SEO"
+
+#: inc/admin/admin-wizard.php:382
+msgid "<strong>WARNING:</strong> Migration will update / delete all SEOPress posts metadata. Some dynamic variables will not be interpreted. We do NOT delete any Squirrly SEO data."
+msgstr "<strong>CẢNH BÁO:</strong> Chuyển dữ liệu có thể sẽ cập nhật / xóa tất cả meta của bài viết SEOPress. Một vài giá trị biến động có thể khó xác định. Chúng tôi KHÔNG xóa bất kỳ dữ liệu Squirrly SEO nào."
+
+#: inc/admin/admin.php:63
+msgid "%%post_content%%"
+msgstr "%%post_content%%"
+
+#: inc/admin/admin.php:63
+msgid "Post content / product long description"
+msgstr "Nội dung dài sản phẩm / bài viết"
+
+#: inc/admin/admin.php:643
+msgid "Data"
+msgstr "Dữ liệu"
+
+#: inc/admin/admin.php:697
+msgid "Run the importer"
+msgstr "Chạy công cụ nhập"
+
+#: inc/admin/admin.php:666
+msgid "Import data from a CSV"
+msgstr "Nhập dữ liệu từ file CSV"
+
+#: inc/admin/admin-notifications-center.php:909
+msgid "Upgrade now!"
+msgstr "Nâng cấp"
+
+#: inc/admin/admin-notifications-center.php:901
+msgid "Take your SEO to the next level with SEOPress PRO!"
+msgstr "Đưa website của bạn lên tầm cao mới với SEOPress PRO!"
+
+#: inc/admin/admin.php:1465 inc/admin/admin.php:4069
+msgid "Enable Author Sitemap"
+msgstr "Bật sơ đồ trang cho tác giả"
+
+#: src/Helpers/ContentAnalysis.php:33
+msgid "Keywords density"
+msgstr "Mật độ từ khóa"
+
+#: src/Services/ContentAnalysis/GetContent.php:117
+msgid "Learn more about <a href=\"https://www.youtube.com/watch?v=Rk4qgQdp2UA\" target=\"_blank\">keywords stuffing</a>."
+msgstr "Tìm hiểu thêm về <a href=\"https://www.youtube.com/watch?v=Rk4qgQdp2UA\" target=\"_blank\">keywords stuffing</a>."
+
+#: src/Helpers/ContentAnalysis.php:78
+msgid "Outbound Links"
+msgstr "Liên kết outbound"
+
+#: inc/admin/admin.php:5135
+msgid "Additional tracking code field added to body"
+msgstr "Mã theo dõi bổ sung cho vào body"
+
+#: inc/admin/admin-wizard.php:101 seopress.php:311
+msgid "Migration completed!"
+msgstr "Việc chuyển đổi đã hoàn tất!"
+
+#: inc/admin/admin-metaboxes-form.php:469
+msgid "Exactly match all parameters"
+msgstr "Chính xác tất cả thuộc tính"
+
+#: inc/admin/admin.php:5138
+msgid "This code will be added just after the opening body tag of your page."
+msgstr "Code này sẽ được thêm vào ngay sau khi mở tag body của web."
+
+#: inc/admin/admin.php:3243
+msgid "Display post thumbnail in Google Custom Search results?"
+msgstr "Hiển thị ảnh đại diện trong kết quả Tìm kiếm Google tùy chọn?"
+
+#: inc/admin/admin-wizard.php:953
+msgid "When you upgrade to the PRO version, you get a lot of additional features, like automatic and manual schemas, Video Sitemap, WooCommerce enhancements, Analytics statistics in your Dashboard, breadcrumbs, redirections, and more."
+msgstr "Khi bạn nâng cấp lên bản PRO, bạn có thêm nhiều tính năng, như làm schema tự động hoặc làm tay, Sitemap Video, cải thiện với WooCommerce, thống kê Analytics trong Bảng quản trị, danh mục đường dẫn, chuyển hướng, và nhiều hơn nữa."
+
+#: src/Services/ContentAnalysis/GetContent.php:114
+msgid "%s was found %d times in your content, a keyword density of %s%%"
+msgstr "%s được tìm thấy %d  trong nội dung, mật độ từ khóa là %s%%"
+
+#: src/Services/ContentAnalysis/GetContent.php:74
+msgid "Words counter is not a direct ranking factor. But, your content must be as qualitative as possible, with relevant and unique information. To fulfill these conditions, your article requires a minimum of paragraphs, so words."
+msgstr "Đếm từ không phải là dữ liệu xếp hạng trực tiếp. Nhưng, nội dung phải đầy đủ, với thông tin liên quan và duy nhất. Để đảm bảo điều kiện này, bài viết của bạn yêu cầu cần tối thiểu số đoạn văn bản, hay là số từ."
+
+#: inc/admin/admin-wizard.php:673
+msgid "For which taxonomy archives, should indexing be disabled?"
+msgstr "Bạn muốn tắt index trên lưu trữ taxonomy nào?"
+
+#: inc/admin/admin-wizard.php:642
+msgid "For which post type archives, should indexing be disabled?"
+msgstr "Bạn muốn tắt index trên lưu trữ post type nào?"
+
+#: inc/admin/admin-wizard.php:612
+msgid "For which single post types, should indexing be disabled?"
+msgstr "Bạn muốn tắt index trên post type nào?"
+
+#: inc/admin/admin-wizard.php:500
+msgid "To build title tags and knowledge graph for Google, you need to fill out the fields below to configure the general settings. "
+msgstr "Để thiế lập thẻ title và knowledge graph cho Google, bạn cần nhập các mục bên dưới để cấu hình thiết lập mặc định."
+
+#: inc/admin/admin.php:5135
+msgid "Paste your tracking code here like Google Tag Manager (body)"
+msgstr "Nhập mã theo dõi của bạn ở đây như Google Tag Manager (body)"
+
+#: inc/admin/admin.php:5125
+msgid "Paste your tracking code here like Google Tag Manager (head)"
+msgstr "Nhập mã theo dõi của bạn ở đây như Google Tag Manager (head)"
+
+#: inc/admin/admin.php:993
+msgid "Activate Redirections"
+msgstr "Kích hoạt chuyển hướng"
+
+#: inc/admin/admin.php:2041
+msgid "[BODY] Add an additional tracking code (like Google Tag Manager...)"
+msgstr "[BODY] Thêm mã theo dõi bổ sung (như Google Tag Manager...)"
+
+#: inc/admin/admin.php:992
+msgid "Redirections feature is disabled. Please activate it from the PRO page."
+msgstr "Tính năng Chuyển hướng đang bị tắt. Vui lòng kích hoạt nó trong trang PRO."
+
+#: inc/admin/admin.php:2831
+msgid "<p>Customize your title & meta description for homepage</p>"
+msgstr "<p>Tùy chỉnh meta tiêu đề và mô tả cho trang chủ</p>"
+
+#: inc/admin/admin.php:61
+msgid "%%post_title%% (alias %%title%%)"
+msgstr "%%post_title%% (hoặc %%title%%)"
+
+#: inc/admin/admin-features-list.php:349
+msgid "Edit your license key."
+msgstr "Nhập mã bản quyền của bạn."
+
+#: seopress.php:234
+msgid "has been successfully updated!"
+msgstr "đã được cập nhật thành công!"
+
+#: inc/admin/admin.php:5105
+msgid "AW-XXXXXXXXX"
+msgstr "AW-XXXXXXXXX"
+
+#: inc/admin/admin-metaboxes-form.php:155
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:57
+msgid " / 940 pixels - "
+msgstr " / 940 pixels - "
+
+#: inc/admin/admin-metaboxes-form.php:125
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:55
+msgid " / 568 pixels - "
+msgstr " / 568 pixels - "
+
+#: inc/admin/admin-header.php:37
+msgid "FREE"
+msgstr "MIỄN PHÍ"
+
+#: inc/admin/admin-metaboxes-form.php:161
+msgid "Category / term description"
+msgstr "Mô tả danh mục / term"
+
+#: inc/admin/admin.php:5105
+msgid "Enter your Google Ads conversion ID (eg: AW-123456789)"
+msgstr "Nhập ID conversion Google Ads (ví dụ: AW-123456789)"
+
+#: inc/admin/admin.php:2025
+msgid "Enable Google Ads"
+msgstr "Bật Google Ads"
+
+#: inc/admin/admin-metaboxes-form.php:462
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:513
+msgid "Enter your new URL in absolute (eg: https://www.example.com/)"
+msgstr "Nhập đường dẫn URL mới (vd: https://www.example.com/)"
+
+#: inc/admin/admin.php:4542 inc/admin/admin-metaboxes-form.php:335
+msgid "Minimum size: 200x200px, ideal ratio 1.91:1, 8Mb max. (eg: 1640x856px or 3280x1712px for retina screens)"
+msgstr "Cỡ tối thiểu: 200x200px, tỷ lệ khung 1.91:1, 8Mb  đa. (vd: 1640x856px hoặc 3280x1712px cho màn hình retina)"
+
+#: inc/admin/admin.php:645
+msgid "Plugins"
+msgstr "Plugin"
+
+#: inc/admin/admin.php:647
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: inc/admin/admin-wizard.php:990
+msgid "Review Settings"
+msgstr "Xem lại cài đặt"
+
+#: inc/admin/admin-wizard.php:215
+msgid "Skip this step"
+msgstr "Bỏ qua bước này"
+
+#: inc/admin/admin-wizard.php:132 inc/admin/admin-wizard.php:769
+msgid "Advanced options"
+msgstr "Tùy chọn nâng cáo"
+
+#: inc/admin/admin-wizard.php:117
+msgid "Import SEO settings"
+msgstr "Nhập các cài đặt SEO"
+
+#: inc/admin/admin-wizard.php:968
+msgid "Create your XML sitemaps"
+msgstr "Tạo file XML sitemap của bạn"
+
+#: inc/admin/admin-wizard.php:958
+msgid "Buy SEOPress PRO - $39 / unlimited sites"
+msgstr "Mua SEOPress PRO - $39 / không giới hạn web"
+
+#: inc/admin/admin-wizard.php:950
+msgid "Go PRO with SEOPress PRO!"
+msgstr "Nâng cấp với bản SEOPress PRO!"
+
+#: inc/admin/admin-wizard.php:929
+msgid "Your site is now ready for search engines!"
+msgstr "Web của bạn đã sẵn sàng với các cỗ máy tìm kiếm!"
+
+#: inc/admin/admin-wizard.php:557 inc/admin/admin-wizard.php:701
+#: inc/admin/admin-wizard.php:879
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: inc/admin/adminbar.php:216
+msgid "Configuration wizard"
+msgstr "Cấu hình qua các bước"
+
+#: inc/admin/admin-wizard.php:982
+msgid "You can also:"
+msgstr "Bạn cũng có thể:"
+
+#: inc/admin/admin-wizard.php:987
+msgid "Visit Dashboard"
+msgstr "Ghé thăm trang tổng quan"
+
+#: inc/admin/admin-notifications-center.php:110
+#: inc/admin/admin-notifications-center.php:140
+msgid "Start the wizard"
+msgstr "Bắt đầu các bước"
+
+#: seopress.php:1298
+msgid "Follow us:"
+msgstr "Theo dõi chúng tôi:"
+
+#: inc/admin/admin-wizard.php:137
+msgid "Ready!"
+msgstr "Sẵn sàng!"
+
+#: inc/admin/admin-wizard.php:197
+msgid "SEOPress &rsaquo; Setup Wizard"
+msgstr "SEOPress &rsaquo; Thiết lập các bước"
+
+#: inc/admin/admin-wizard.php:463 inc/admin/admin-wizard.php:967
+msgid "Next step"
+msgstr "Bước tiếp theo"
+
+#: inc/admin/admin-wizard.php:122 inc/admin/admin-wizard.php:498
+msgid "Your site"
+msgstr "Web của bạn"
+
+#: inc/admin/admin-wizard.php:127 inc/admin/admin-wizard.php:604
+msgid "Indexing"
+msgstr "Đang index"
+
+#: inc/admin/admin-wizard.php:213
+msgid "Not right now"
+msgstr "Không phải lúc này"
+
+#: inc/admin/admin-wizard.php:503
+msgid "eg: |"
+msgstr "Ví dụ: |"
+
+#: inc/admin/admin-wizard.php:538
+msgid "Facebook page URL"
+msgstr "Địa chỉ trang Facebook URL"
+
+#: seopress.php:1305
+msgid "Like our Facebook page"
+msgstr "Thích trang Facebook của chúng tôi"
+
+#: inc/admin/admin-wizard.php:974
+msgid "Configure your XML sitemaps"
+msgstr "Tạo file XML sitemap của bạn"
+
+#: inc/admin/admin-notifications-center.php:103
+msgid "Configure SEOPress in a few minutes with our installation wizard"
+msgstr "Sử dụng trình cài đặt từng bước để cấu hình SEOPress trong chỉ vài phút"
+
+#: inc/admin/admin-wizard.php:536
+msgid "eg: https://www.example.com/logo.png"
+msgstr "ví dụ: https://www.example.com/logo.png"
+
+#: inc/admin/admin-wizard.php:783
+msgid "You only have one author on your site? Check this option to avoid duplicate content."
+msgstr "Bạn chỉ có duy nhất một người đăng trên web? Đánh dấu option này để tránh trùng nội dung."
+
+#: inc/admin/admin-wizard.php:514
+msgid "Choose a knowledge type"
+msgstr "Chọn loại kiến thức"
+
+#: inc/admin/admin.php:4803
+msgid "Display and automatically accept the user‘s consent on page load (not fully GDPR)"
+msgstr "Hiển thị và tự động cho người dùng chấp thuận khi tải trang (không hoàn toàn đáp ứng GDPR)"
+
+#: inc/admin/admin.php:4805
+msgid "The previous option must be checked to use this."
+msgstr "Tùy chọn trước đó phải được đánh dấu để sử dụng cái này."
+
+#: inc/admin/admin-wizard.php:510
+msgid "eg: My super website"
+msgstr "vd: Website tuyệt vời của tôi"
+
+#: inc/admin/admin-wizard.php:796
+msgid "By default, SEOPress redirects your Attachment pages to the parent post. Optimize this by redirecting the user directly to the URL of the media file."
+msgstr "Mặc định, SEOPress chuyển hướng các trang File đính kèm tới trang bài viết cha. Tối ưu hóa phần này sẽ chuyển hướng người dùng trực tiếp tới địa chỉ file đã tải lên."
+
+#: inc/admin/admin-wizard.php:969
+msgid "Build custom XML sitemaps to improve Google's crawling of your site."
+msgstr "Tạo sitemap XML tùy chỉnh để cải thiện khả năng craw dữ liệu của Google cho website."
+
+#: inc/admin/admin-wizard.php:809
+msgid "Shorten your URLs by removing /category/ and improve your SEO."
+msgstr "Làm ngắn địa chỉ URL hơn bằng việc gỡ bỏ /category/ và tối ưu SEO."
+
+#: inc/admin/admin-wizard.php:272
+msgid "The following wizard will help you configure SEOPress and get you started quickly."
+msgstr "Trình hướng dẫn sau đây sẽ giúp bạn định cấu hình SEOPress và giúp bạn bắt đầu nhanh chóng."
+
+#: seopress.php:1317
+msgid "Watch our guided tour videos to learn more about SEOPress"
+msgstr "Xem video hướng dẫn để biết thêm về SEOPress"
+
+#: seopress.php:1341
+msgid "The off side of SEOPress"
+msgstr "Mặt trái của SEOPress"
+
+#: inc/admin/admin.php:879 inc/admin/admin-wizard.php:364
+msgid "<strong>WARNING:</strong> Migration will update / delete all SEOPress posts and terms metadata. Some dynamic variables will not be interpreted. We do NOT delete any Rank Math data."
+msgstr "<strong>CẢNH BÁO:</strong> Chuyển dữ liệu có thể sẽ cập nhật / xóa tất cả bài viết và term metadata của SEOPress. Một vài giá trị biến động có thể khó xác định. Chúng tôi KHÔNG xóa bất kỳ dữ liệu Rank Math nào."
+
+#: inc/admin/admin.php:875 inc/admin/admin-wizard.php:360
+msgid "Meta Robots (noindex, nofollow, noarchive, noimageindex)"
+msgstr "Meta Robot (noindex, nofollow, noarchive, noimageindex)"
+
+#: inc/admin/admin.php:868 inc/admin/admin-wizard.php:353
+msgid "Import posts and terms metadata from Rank Math"
+msgstr "Nhập bài viết và term metadata từ Rank Math "
+
+#: inc/admin/admin.php:93
+msgid "%%wc_sku%%"
+msgstr "%%wc_sku%%"
+
+#: inc/admin/admin.php:2938
+msgid "<p>Link your site with your social accounts. Use markup on your website to add your social profile information to a Google Knowledge panel. Knowledge panels prominently display your social profile information in some Google Search results. Filling in these fields does not guarantee the display of this data in search results. It may take a long time to see these social-network links.</p>"
+msgstr "<p>Liên kết web với tài khoản mạng xã hội. Sử dụng markup trên web để thêm thông tin tài khoản mạng xã hội vào công cụ Google Knowledge. Điều này giúp hiển thị thông tin mạng xã hội trong một vài kết quả tìm kiếm của Google. Nhập vào nhưng không thể cam kết hiển thị dữ liệu này. Nó có thể cần nhiều thời gian để xuất hiện.</p>"
+
+#: inc/admin/admin-dyn-variables-helper.php:40 inc/admin/admin.php:93
+msgid "Single SKU product"
+msgstr "Mã SKU của sản phẩm"
+
+#: inc/admin/admin.php:2948
+msgid "Custom OG Image from SEO metabox"
+msgstr "Ảnh OG riêng từ mục nhập SEO"
+
+#: inc/admin/admin.php:2950 inc/admin/admin.php:2964
+msgid "First image of your post content"
+msgstr "Ảnh đầu tiên trong bài viết"
+
+#: inc/admin/admin.php:2951
+msgid "Global OG Image set in SEO > Social > Open Graph"
+msgstr "Ảnh OG mặc định đã cài đặt trong SEO > Social > Open Graph"
+
+#: inc/admin/admin.php:2944
+msgid "<p>We generate the <strong>og:image</strong> meta in this order:</p>"
+msgstr "<p>Chúng tôi khởi tạo thẻ <strong>og:image</strong> trong yêu cầu này:</p>"
+
+#: inc/admin/admin.php:2965
+msgid "Global Twitter:image set in SEO > Social > Twitter Card"
+msgstr "Twitter:image mặc định nằm trong SEO > Mạng xã hội > Twitter Card"
+
+#: inc/admin/admin.php:2962
+msgid "Custom Twitter image from SEO metabox"
+msgstr "Ảnh Twitter tùy chọn từ mục nhập SEO"
+
+#: src/Services/ContentAnalysis/GetContent.php:676
+msgid "nositelinkssearchbox is on! Google will not display a sitelinks searchbox in search results."
+msgstr "nositelinkssearchbox đang bật! Google sẽ hiển thị hộp tìm kiếm trong kết quả tìm kiếm."
+
+#: src/Services/ContentAnalysis/GetContent.php:678
+#: src/Services/ContentAnalysis/GetContent.php:683
+msgid "nositelinkssearchbox is off. Google will probably display a sitelinks searchbox in search results."
+msgstr "nositelinkssearchbox đang tắt! Google sẽ hiển thị hộp tìm kiếm trong kết quả tìm kiếm."
+
+#: inc/admin/admin.php:2958
+msgid "<p>We generate the <strong>twitter:image</strong> meta in this order:</p>"
+msgstr "<p>Chúng tôi khởi tạo thẻ <strong>twitter:image</strong> trong yêu cầu này:</p>"
+
+#: inc/admin/admin-features-list.php:158 inc/admin/admin-features-list.php:244
+msgid "See schemas"
+msgstr "Xem schema"
+
+#: inc/admin/admin.php:5128
+msgid "This code will be added in the head section of your page."
+msgstr "Code này sẽ được thêm vào trong thẻ HEAD của trang."
+
+#: inc/admin/admin-features-list.php:241 inc/admin/adminbar.php:192
+msgid "Schemas"
+msgstr "Schema"
+
+#: inc/admin/admin-features-list.php:279 inc/admin/admin-header.php:148
+msgid "Broken links"
+msgstr "Liên kết không hoạt động"
+
+#: inc/admin/admin.php:5125
+msgid "Additional tracking code field"
+msgstr "Mục nhập code theo dõi bổ sung"
+
+#: inc/admin/admin-features-list.php:242
+msgid "Create / manage your schemas"
+msgstr "Tạo / quản lý schema"
+
+#: inc/admin/admin.php:765
+msgid "Import plugin settings"
+msgstr "Nhập các thiết lập có sẵn của plugin"
+
+#: inc/admin/admin.php:751
+msgid "Export plugin settings"
+msgstr "Xuất các thiết lập của plugin"
+
+#: inc/admin/admin.php:5091
+msgid "GTM-XXXXXXX"
+msgstr "GTM-XXXXXXX"
+
+#: inc/admin/admin.php:5805
+msgid "When sending an image file, automatically set the caption based on the filename"
+msgstr "Khi gửi ảnh, tự động đặt caption theo tên file ảnh"
+
+#: inc/admin/admin.php:5823
+msgid "When sending an image file, automatically set the description based on the filename"
+msgstr "Khi gửi ảnh, tự động đặt mô tả theo tên file"
+
+#: inc/admin/admin.php:5761
+msgid "When sending an image file, automatically set the alternative text based on the filename"
+msgstr "Khi gửi file ảnh, tự động đặt nội dung thay thế alt theo file ảnh"
+
+#: inc/admin/admin.php:5743
+msgid "When sending an image file, automatically set the title based on the filename"
+msgstr "Khi gửi file ảnh, tự động đặt tiêu đề theo tên file"
+
+#: inc/admin/admin.php:5705 inc/admin/admin-wizard.php:792
+msgid "Redirect attachment pages to their file URL (https://www.example.com/my-image-file.jpg)"
+msgstr "Chuyển hướng trang Đính kèm tới đường dẫn file URL (https://www.example.com/my-image-file.jpg)"
+
+#: inc/admin/admin.php:5094
+msgid "Google Optimize offers A/B testing, website testing & personalization tools."
+msgstr "Google Optimize cho phép kiểm thử A/B, kiểm tra web và các công cụ cá nhân hóa."
+
+#: inc/admin/admin.php:5091
+msgid "Enter your Google Optimize container ID"
+msgstr "Nhập ID container Google Optimize của bạn."
+
+#: inc/admin/admin.php:2366
+msgid "Automatically set the image Description"
+msgstr "Tự động set mô tả cho ảnh"
+
+#: inc/admin/admin.php:2358
+msgid "Automatically set the image Caption"
+msgstr "Tự động set caption cho ảnh"
+
+#: inc/admin/admin.php:2342
+msgid "Automatically set the image Alt text"
+msgstr "Tự động set nội dung thay thế alt cho ảnh"
+
+#: inc/admin/admin-metaboxes-form.php:470
+msgid "Exclude all parameters"
+msgstr "Loại trừ tất cả biến"
+
+#: inc/admin/admin-metaboxes-form.php:471
+msgid "Exclude all parameters and pass them to the redirection"
+msgstr "Loại trừ tất cả biến và cho chúng vào chuyển hướng"
+
+#: inc/admin/admin.php:2017
+msgid "Enable Google Optimize"
+msgstr "Bật Google Optimize"
+
+#: inc/admin/admin.php:2318
+msgid "Redirect attachment pages to their file URL"
+msgstr "Chuyển hướng trang đính kèm đến URL file"
+
+#: inc/admin/admin.php:2334
+msgid "Automatically set the image Title"
+msgstr "Tự động set tiêu đề cho ảnh"
+
+#: inc/admin/admin-metaboxes-form.php:467
+msgid "Query parameters"
+msgstr "Tham số truy vấn"
+
+#: inc/admin/admin.php:5707
+msgid "If this option is checked, it will take precedence over the redirection of attachments to the post's parent."
+msgstr "Nếu tùy chọn này được đánh dấu, thì sẽ được ưu tiên hơn trong việc chuyển hướng các file đính kèm tới bài viết gốc."
+
+#. Description of the plugin
+msgid "One of the best SEO plugins for WordPress."
+msgstr "Một trong những plugin SEO tốt nhất cho WordPress"
+
+#: inc/functions/options-advanced-admin.php:40
+#: inc/functions/options-advanced-admin.php:50
+msgid "WARNING"
+msgstr "CẢNH BÁO"
+
+#: inc/admin/admin-header.php:161
+msgid "White Label"
+msgstr "Ẩn danh"
+
+#: inc/admin/admin.php:818 inc/admin/admin-wizard.php:309
+msgid "<strong>WARNING:</strong> Migration will delete / update all SEOPress posts and terms metadata. Some dynamic variables will not be interpreted. We do NOT delete any Yoast data."
+msgstr "<strong>CẢNH BÁO:</strong> Chuyển dữ liệu có thể sẽ xóa / cập nhật tất cả bài viết và term metadata của SEOPress. Một vài giá trị biến động có thể khó xác định. Chúng tôi KHÔNG xóa bất kỳ dữ liệu Yoast nào."
+
+#: inc/functions/options-advanced-admin.php:51
+msgid "URL rewriting is NOT enabled on your site. Select a permalink structure that is optimized for SEO (NOT Plain)."
+msgstr "URL rewrite CHƯA được kích hoạt trên trang web của bạn. Hãy chọn cấu trúc liên kết được tối ưu hóa cho SEO (KHÔNG phải mặc định)."
+
+#: inc/functions/options-advanced-admin.php:41
+msgid "Do NOT change your permalink structure on a production site. Changing URLs can severely damage your SEO."
+msgstr "ĐỪNG thay đổi cấu trúc liên kết trên website đang hoạt động. Thay đổi URL có thể  hưởng nghiêm trọng tới quá trình SEO của bạn."
+
+#: inc/admin/admin.php:858 inc/admin/admin-wizard.php:345
+msgid "<strong>WARNING:</strong> Migration will update / delete all SEOPress posts and terms metadata. Some dynamic variables will not be interpreted. We do NOT delete any SEO Framework data."
+msgstr "<strong>CẢNH BÁO:</strong> Chuyển dữ liệu có thể sẽ cập nhật / xóa tất cả bài viết và term metadata của SEOPress. Một vài giá trị biến động có thể khó xác định. Chúng tôi KHÔNG xóa bất kỳ dữ liệu Rank Math nào."
+
+#: src/Services/ContentAnalysis/GetContent.php:658
+msgid "We found no meta robots on this page. It means, your page is index,follow. Search engines will index it, and follow links. "
+msgstr "Không tìm thấy meta robot trong trang này. Nghĩa là trang này được index và follow. Công cụ tìm kiếm có thể index nó và theo dõi các liên kết bên trong."
+
+#: src/Services/ContentAnalysis/GetContent.php:623
+msgid "We found %s meta robots in your page. There is probably something wrong with your theme!"
+msgstr "Chúng tôi tìm thấy %s meta robot trong trang này. Có vấn đề gì đó với giao diện của bạn."
+
+#: src/Services/ContentAnalysis/GetContent.php:180
+msgid "Target keywords were found in Heading 1 (H1)."
+msgstr "Tìm thấy từ khóa mục tiêu trong Heading 1 (H1)."
+
+#: inc/admin/admin.php:91
+msgid "%%wc_single_price%%"
+msgstr "%%wc_single_price%%"
+
+#: inc/admin/admin.php:92
+msgid "%%wc_single_price_exc_tax%%"
+msgstr "%%wc_single_price_exc_tax%%"
+
+#: inc/admin/admin-dyn-variables-helper.php:38 inc/admin/admin.php:91
+msgid "Single product price"
+msgstr "Giá một sản phẩm"
+
+#: inc/admin/admin-metaboxes-form.php:286
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:281
+msgid "Select a primary category"
+msgstr "Chọn danh mục chính"
+
+#: inc/admin/admin-dyn-variables-helper.php:39 inc/admin/admin.php:92
+msgid "Single product price taxes excluded"
+msgstr "Giá sản phẩm đã bao gồm thuế"
+
+#: inc/admin/admin.php:5256 inc/admin/admin.php:5591
+msgid "Enter your domains: seopress.org,sub.seopress.org,sub2.seopress.org"
+msgstr "Nhập các tên miền mà bạn có: seopress.org,sub.seopress.org,sub2.seopress.org"
+
+#: inc/admin/admin.php:6477
+msgid "Remove the advice if None schema selected"
+msgstr "Gỡ bỏ lời khuyên nếu không chọn schema nào"
+
+#: inc/admin/admin.php:2685
+msgid "Hide advice in Structured Data Types metabox"
+msgstr "Ẩn lời khuyên trong metabox cấu trúc dữ liệu"
+
+#: inc/functions/options-advanced-admin.php:813
+#: inc/admin/admin-metaboxes-form.php:230
+msgid "Do not display this page in search engine results / XML - HTML sitemaps <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị trang này trong kết quả của công cụ tìm kiếm / XML - Sơ đồ trang web HTML <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:4140
+msgid "You should never include attachment post type in your sitemap. Be careful if you checked this."
+msgstr "Bạn không nên đặt bài Đính kèm trong sơ đồ trang web. Hãy cẩn thận nếu bạn đánh dấu  lựa chọn này."
+
+#: inc/admin/admin.php:4265
+msgid "Menu order"
+msgstr "Thứ tự Menu"
+
+#: inc/admin/admin.php:1529 inc/admin/admin.php:4207
+msgid "Exclude some Posts, Pages, Custom Post Types or Terms IDs"
+msgstr "Loại trừ ID một số bài viết, trang, Post type hoặc Term"
+
+#: inc/functions/options-advanced-admin.php:27
+msgid "Need help?"
+msgstr "Cần trợ giúp?"
+
+#: inc/functions/options-advanced-admin.php:21 inc/admin/admin-wizard.php:943
+msgid "Activate License"
+msgstr "Kích hoạt bản quyền"
+
+#: inc/functions/options-advanced-admin.php:19 inc/admin/admin-wizard.php:935
+msgid "Welcome to SEOPress PRO!"
+msgstr "Chào mừng đến với SEOPress PRO!"
+
+#: inc/functions/options-advanced-admin.php:20 inc/admin/admin-wizard.php:938
+msgid "Please activate your license to receive automatic updates and get premium support."
+msgstr "Vui lòng kích hoạt bản quyền để nhận tự động cập nhật và hỗ trợ."
+
+#: inc/admin/admin.php:4775
+msgid "<strong>The user must click the Accept button to allow tracking.</strong>"
+msgstr "<strong>Người dùng phải nhấp vào nút Chấp nhận để cho phép theo dõi.</strong>"
+
+#: inc/admin/admin.php:4829
+msgid "Shortcode allowed to get the privacy page set in WordPress settings: [seopress_privacy_page]"
+msgstr "Shortcode cho phép lấy trang Chính sách bảo mật được thiết lập trong WordPress: [seopress_privacy_page]"
+
+#: inc/functions/options-google-analytics.php:229
+msgid "By visiting our site, you agree to our privacy policy regarding cookies, tracking statistics, etc.&nbsp;<a href=\"[seopress_privacy_page]\" tabindex=\"10\">Read more</a>"
+msgstr "Khi truy cập trang web của chúng tôi, bạn đồng ý với chính sách bảo mật của chúng tôi về cookie, thống kê theo dõi, vv... &nbsp;<a href=\"[seopress_privacy_page]\" tabindex=\"10\">Đọc thêm</a>"
+
+#: inc/admin/admin.php:2326
+msgid "Remove ?replytocom link to avoid duplicate content"
+msgstr "Gỡ bỏ liên kết ?replytocom để tránh trùng dữ liệu"
+
+#: inc/admin/admin.php:4339
+msgid "JPG, PNG, and GIF allowed."
+msgstr "JPG, PNG, và GIF có thể tải lên."
+
+#: inc/admin/admin.php:5725
+msgid "Remove ?replytocom link in source code"
+msgstr "Gỡ bỏ liên kết ?replytocom trong code"
+
+#: inc/admin/admin.php:3759
+msgid "Do not display search archives in search engine results <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị kết quả tìm kiếm trên các công cụ tìm kiếm <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:3694
+msgid "Do not display date archives in search engine results <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị lưu trữ theo thời gian trên các công cụ tìm kiếm <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:3629 inc/admin/admin-wizard.php:779
+msgid "Do not display author archives in search engine results <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị lưu trữ theo tác giả trên các công cụ tìm kiếm <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:4777
+msgid "User roles excluded from tracking will not see the consent message.<br> If you use a caching plugin, you have to exclude this JS file in your settings: <br><strong>/wp-content/plugins/wp-seopress/assets/js/seopress-cookies-ajax.js</strong> <br>and this cookie <strong>seopress-user-consent-accept</strong>"
+msgstr "Vai trò người dùng bị loại trừ khỏi tracking sẽ không thấy thông báo chấp thuận.<br> Nếu sử dụng caching plugin, bạn phải loại trừ tệp JS này trong cài đặt của mình: <br><strong>/wp-content/plugins/wp-seopress/assets/js/seopress-cookies-ajax.js</strong> <br>và cookie này <strong>seopress-user-consent-accept</strong>"
+
+#: inc/admin/admin.php:58
+msgid "%%sep%%"
+msgstr "%%sep%%"
+
+#: inc/admin/admin.php:67
+msgid "%%post_modified_date%%"
+msgstr "%%post_modified_date%%"
+
+#: inc/admin/admin.php:58
+msgid "Separator (eg: - )"
+msgstr "Ngăn cách (ví dụ: - )"
+
+#: inc/admin/admin-header.php:110
+msgid "Structured Data Types (schema.org)"
+msgstr "Structured Data Type (schema.org)"
+
+#: inc/admin/admin.php:4301 inc/admin/admin-wizard.php:519
+#: inc/admin/admin-metaboxes-form.php:297
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:274
+msgid "None (will disable this feature)"
+msgstr "Không (sẽ tắt chức năng này)"
+
+#: inc/admin/admin.php:1131 inc/admin/admin.php:3031 inc/admin/admin.php:3044
+#: inc/admin/admin.php:3144 inc/admin/admin.php:3269 inc/admin/admin.php:3396
+#: inc/admin/admin.php:3521 inc/admin/admin.php:3601 inc/admin/admin.php:3666
+#: inc/admin/admin.php:3731 inc/admin/admin.php:3777
+#: inc/admin/admin-wizard.php:502 inc/admin/admin-metaboxes-form.php:137
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:68
+msgid "Separator"
+msgstr "Dấu phân tách"
+
+#: inc/admin/admin.php:67
+msgid "Last modified post date"
+msgstr "Lần sửa bài gần nhất"
+
+#: inc/admin/admin.php:3031
+msgid "Enter your separator, eg: \"-\""
+msgstr "Nhập dấu ngăn cách, ví dụ \"-\""
+
+#: inc/admin/admin.php:4013
+msgid "Images in XML sitemaps are visible only from the source code."
+msgstr "Ảnh trong sitemap XML được hiển thị chỉ trong code."
+
+#: inc/admin/admin.php:4048
+msgid "Your video sitemap is empty? Read our guide to learn more about <a href=\"%s\" target=\"_blank\">adding videos to your sitemap.</a>"
+msgstr "Sitemap video của bạn đang trống? Đọc hướng dẫn để <a href=\"%s\" target=\"_blank\">thêm video vào sitemap.</a>"
+
+#: inc/admin/admin.php:3035
+msgid "Use this separator with %%sep%% in your title and meta description."
+msgstr "Sử dụng ngăn cách với kí tự %%sep%% trong tiêu đề và mô tả của thẻ meta."
+
+#: inc/admin/admin.php:6459
+msgid "Remove Genesis SEO link in WP Admin Menu"
+msgstr "Gỡ liên kết Genesis SEO trong trang Quản trị"
+
+#: inc/admin/admin.php:4260
+msgid "Post ID"
+msgstr "ID bài viết"
+
+#: inc/admin/admin.php:4255
+msgid "Modified date"
+msgstr "Ngày sửa gần nhất"
+
+#: inc/admin/admin.php:4245
+msgid "Default (date)"
+msgstr "Mặc định (date)"
+
+#: inc/admin/admin-metaboxes-form.php:459
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:503
+msgid "410 Gone"
+msgstr "410 Gone"
+
+#: inc/admin/admin-metaboxes-form.php:460
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:504
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451 Unavailable For Legal Reasons"
+
+#: inc/admin/admin-metaboxes-form.php:458
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:502
+msgid "307 Moved Temporarily"
+msgstr "307 Moved Temporarily"
+
+#: inc/admin/admin-metaboxes-form.php:457
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:501
+msgid "302 Found / Moved Temporarily"
+msgstr "302 Found / Moved Temporarily"
+
+#: inc/admin/admin-metaboxes-form.php:265
+msgid "Do not display a description in search results for this page <strong>(nosnippet)</strong>"
+msgstr "Đừng hiện mô tả trong kết quả tìm kiếm cho trang này <strong>(nosnippet)</strong>"
+
+#: inc/admin/admin-metaboxes-form.php:258
+msgid "Do not display a \"Cached\" link in the Google search results <strong>(noarchive)</strong>"
+msgstr "Đừng hiện liên kết \"Lưu trữ\" trong kết quả tìm kiếm Google <strong>(noarchive)</strong>"
+
+#: inc/admin/admin-metaboxes-form.php:251
+msgid "Do not index images for this page <strong>(noimageindex)</strong>"
+msgstr "Đừng index ảnh trong trang này <strong>(noimageindex)</strong>"
+
+#: inc/functions/options-advanced-admin.php:821
+#: inc/admin/admin-metaboxes-form.php:237
+msgid "Do not follow links for this page <strong>(nofollow)</strong>"
+msgstr "Đừng theo dõi liên kết trong trang này <strong>(nofollow)</strong>"
+
+#: inc/admin/admin.php:1406 inc/admin/admin.php:3927
+msgid "nositelinkssearchbox"
+msgstr "nositelinkssearchbox"
+
+#: inc/admin/admin.php:3557
+msgid "Do not display this post type archive in search engine results <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị lưu trữ post type trên các công cụ tìm kiếm <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:3471
+msgid "Do not follow links for this taxonomy archive <strong>(nofollow)</strong>"
+msgstr "Đừng theo dõi liên kết trong lưu trữ taxonomy này <strong>(nofollow)</strong>"
+
+#: inc/admin/admin.php:3450
+msgid "Do not display this taxonomy archive in search engine results <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị lưu trữ taxonomy trên các công cụ tìm kiếm <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:3201
+msgid "Do not follow links for this single post type <strong>(nofollow)</strong>"
+msgstr "Đừng theo dõi liên kết trong post type này <strong>(nofollow)</strong>"
+
+#: inc/admin/admin.php:3180
+msgid "Do not display this single post type in search engine results <strong>(noindex)</strong>"
+msgstr "Đừng hiển thị post type trên các công cụ tìm kiếm <strong>(noindex)</strong>"
+
+#: inc/admin/admin.php:2677
+msgid "Hide Genesis SEO Settings link"
+msgstr "Ẩn liên kết Cài đặt Genesis SEO"
+
+#: inc/admin/admin.php:1537
+msgid "Sort order"
+msgstr "Thứ tự"
+
+#: inc/admin/admin.php:1545
+msgid "Order posts by"
+msgstr "Sắp xếp bài viết theo"
+
+#: inc/admin/admin.php:854 inc/admin/admin-wizard.php:341
+msgid "Meta Robots (noindex, nofollow, noarchive)"
+msgstr "Meta Robot (noindex, nofollow, noarchive)"
+
+#: inc/admin/admin.php:4625
+msgid "The ID (or comma-separated list for properties that can accept multiple IDs) of an app, person using the app, or Page Graph API object."
+msgstr "ID (hoặc danh sách ngăn cách bởi dấu phẩy của các thuộc tính nếu là nhiều ID) của ứng dụng, người sử dụng app, hoặc đối tượng Page Graph API."
+
+#: inc/admin/admin.php:4612
+msgid "One or more Facebook Page IDs that are associated with a URL in order to enable link editing and instant article publishing."
+msgstr "Một hoặc vài ID của Facebook Page có liên quan tới đường dẫn trong để bật sửa liên kết và phát hành bài viết ngay lập tức."
+
+#: inc/admin/admin.php:4227
+msgid "ASC (ascending order from lowest to highest values (1, 2, 3; a, b, c))"
+msgstr "ASC (sắp xếp từ giá trị thấp nhất đến cao nhất (1, 2, 3; a, b, c))"
+
+#: inc/admin/admin.php:4222
+msgid "DESC (descending order from highest to lowest values (3, 2, 1; c, b, a))"
+msgstr "DESC (sắp xếp từ giá trị cao nhất đến thấp nhất (3, 2, 1; c, b, a))"
+
+#: inc/admin/admin.php:3578
+msgid "Do not follow links for this post type archive <strong>(nofollow)</strong>"
+msgstr "Đừng theo dõi liên kết trong lưu trữ post type này <strong>(nofollow)</strong>"
+
+#: inc/admin/admin.php:847 inc/admin/admin-wizard.php:334
+msgid "Import posts and terms metadata from The SEO Framework"
+msgstr "Nhập bài viết và term metadata từ The SEO Framework"
+
+#: inc/admin/admin-metaboxes-form.php:244
+msgid "Do not use Open Directory project metadata for titles or excerpts for this page <strong>(noodp)</strong>"
+msgstr "Đừng sử dụng metadata của Open Directory cho các tiêu đề hoặc đoạn trích của trang này <strong>(noodp)</strong>"
+
+#: inc/admin/admin.php:100
+msgid "%%author_bio%%"
+msgstr "%%author_bio%%"
+
+#: inc/admin/admin.php:3489
+msgid "See archive"
+msgstr "Xem lưu trữ?"
+
+#: inc/admin/admin.php:2900
+msgid "404 error?"
+msgstr "Lỗi 404?"
+
+#: inc/admin/admin.php:2899
+msgid "Blank sitemap?"
+msgstr "Sitemap chưa có?"
+
+#: inc/admin/admin.php:835 inc/admin/admin.php:952 inc/admin/admin.php:973
+#: inc/admin/admin-wizard.php:324 inc/admin/admin-wizard.php:429
+#: inc/admin/admin-wizard.php:449
+msgid "Meta Robots (noindex, nofollow)"
+msgstr "Thẻ Meta Robots (noindex, nofollow...)"
+
+#: inc/admin/admin.php:834 inc/admin/admin-wizard.php:323
+msgid "Twitter image thumbnail"
+msgstr "Ảnh Twitter"
+
+#: inc/admin/admin.php:828 inc/admin/admin-wizard.php:317
+msgid "Import posts and terms metadata from All In One SEO"
+msgstr "Nhập bài viết và term metadata từ All In One SEO"
+
+#: inc/admin/admin.php:4826
+msgid "Hook to filter user consent message - new window"
+msgstr "Hook để lọc tin nhắn chấp thuận người dùng - cửa sổ mới"
+
+#: inc/admin/ajax.php:112
+msgid "To get your Google snippet preview, publish your post!"
+msgstr "Để xem thử phần hiển thị trên Google, hãy xuất bản bài viết!"
+
+#: inc/admin/admin.php:6513 inc/admin/admin.php:6546
+msgid "Hook to filter structured data types metabox call by post type - new window"
+msgstr "Hook để lọc cấu trúc dữ liệu bằng post type - cửa sổ mới"
+
+#: inc/admin/admin.php:6028
+msgid "If your site is already verified in <strong>Bing Webmaster tools</strong>, you can leave this field empty."
+msgstr "Nếu site của bạn đã xác minh trong <strong>Bing Webmaster tools</strong>, chỉ cần để mục này trống."
+
+#: inc/admin/admin.php:6018
+msgid "If your site is already verified in <strong>Google Search Console</strong>, you can leave this field empty."
+msgstr "Nếu site của bạn đã xác minh trong <strong>Google Search Console</strong>, chỉ cần để mục này trống."
+
+#: inc/admin/admin.php:4836
+msgid "Change the button value"
+msgstr "Đổi giá trị nút"
+
+#: inc/admin/admin.php:4785
+msgid "Hook to add custom tracking code with user consent - new window"
+msgstr "Hook để thêm mã theo dõi tùy chỉnh với sự chấp thuận của người dùng - cửa sổ mới"
+
+#: inc/admin/admin.php:4050
+msgid "Guide to enable XML video sitemaps - new window"
+msgstr "Hướng dẫn bật sitemap XML video - cửa sổ mới"
+
+#: inc/admin/admin.php:82
+msgid "%%archive_date%%"
+msgstr "%%archive_date%%"
+
+#: inc/admin/admin.php:2554
+msgid "Hide Useful Links"
+msgstr "Ẩn liên kết hữu ích"
+
+#: inc/admin/admin.php:2546
+msgid "Hide SEO tools"
+msgstr "Ẩn công cụ SEO"
+
+#: inc/admin/admin.php:2538
+msgid "Hide Notifications Center"
+msgstr "Ẩn Trung tâm thông báo"
+
+#: inc/admin/admin.php:2123 inc/admin/admin.php:5301
+msgid "Track downloads' clicks"
+msgstr "'Theo dõi tải về' click"
+
+#: inc/admin/admin.php:1855
+msgid "Accept button for user tracking"
+msgstr "Nút chấp thuận cho người dùng bị theo dõi"
+
+#: inc/admin/admin.php:424
+msgid "Twitter (Twitter card)"
+msgstr "Twitter (Twitter card)"
+
+#: inc/admin/admin.php:423
+msgid "Facebook (Open Graph)"
+msgstr "Facebook (Open Graph)"
+
+#: inc/admin/admin-metaboxes-form.php:163
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:70
+msgid "Post Excerpt"
+msgstr "Tóm tắt bài viết"
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:35
+#: inc/admin/admin-metaboxes-content-analysis-form.php:36
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:49
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:50
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:569
+msgid "Google suggestions"
+msgstr "Gợi ý của Google"
+
+#: inc/admin/admin-metaboxes-form.php:499
+msgid "Need help with your redirections? Read our guide."
+msgstr "Cần trợ giúp về chuyển hướng? Đọc hướng dẫn."
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:36
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:50
+msgid "Enter a keyword, or a phrase, to find the top 10 Google suggestions instantly. This is useful if you want to work with the long tail technique."
+msgstr "Nhập từ khóa, hoặc đoạn, để tìm top 10 gợi ý từ Google ngay. Rất hữu ích nếu bạn muốn thực hiện kĩ thuật SEO từ khóa dài."
+
+#: inc/admin/admin.php:2934
+msgid "Learn more on Google official website."
+msgstr "Tìm hiểu trên website chính thức của Google."
+
+#: inc/admin/admin.php:38 inc/admin/admin-features-list.php:31
+msgid "XML / Image / Video / HTML Sitemap"
+msgstr "Sitemap XML HTML / Ảnh / Video"
+
+#: inc/admin/admin.php:1003
+msgid "By clicking Reset Notices, all notices in the notifications center will be set to their initial status."
+msgstr "Bằng cách click vào Đặt lại Thông báo, tất cả thông báo trong Trung tâm thông báo được đặt về trạng thái ban đầu."
+
+#: inc/admin/admin-metaboxes-form.php:563
+msgid "Video URL"
+msgstr "Video URL"
+
+#: inc/admin/admin-metaboxes-form.php:602
+#: inc/admin/admin-metaboxes-form.php:603
+msgid "Video tags"
+msgstr "Video tags"
+
+#: inc/admin/admin-metaboxes-form.php:598
+#: inc/admin/admin-metaboxes-form.php:599
+msgid "View count"
+msgstr "Số lượt xem"
+
+#: inc/admin/admin-metaboxes-form.php:599
+msgid "Number of views"
+msgstr "Số lượt xem"
+
+#: inc/admin/admin.php:1456
+msgid "Enable XML Video Sitemaps"
+msgstr "Bật Sitemap video XML"
+
+#: inc/admin/admin-metaboxes-form.php:625
+msgid "Add video"
+msgstr "Thêm video"
+
+#: inc/admin/admin-notifications-center.php:694
+msgid "Rate us!"
+msgstr "Đánh giá!"
+
+#: inc/admin/admin.php:4040
+msgid "Enable Video Sitemaps"
+msgstr "Bật Sitemap video"
+
+#: inc/admin/admin-metaboxes-form.php:573
+msgid "Video title"
+msgstr "Tiêu đề video"
+
+#: inc/admin/admin-metaboxes-form.php:573
+msgid "Enter your video title"
+msgstr "Nhập tiêu đề video của bạn"
+
+#: inc/admin/admin-metaboxes-form.php:578
+msgid "Video description"
+msgstr "Mô tả video"
+
+#: inc/admin/admin-metaboxes-form.php:584
+msgid "Video Thumbnail"
+msgstr "Ảnh đại diện video"
+
+#: inc/admin/admin-metaboxes-form.php:589
+msgid "Video duration"
+msgstr "Độ dài video"
+
+#: inc/admin/admin-metaboxes-form.php:603
+msgid "Enter your video tags"
+msgstr "Nhập từ khóa cho video"
+
+#: inc/admin/admin-metaboxes-form.php:607
+#: inc/admin/admin-metaboxes-form.php:608
+msgid "Video categories"
+msgstr "Thể loại video"
+
+#: inc/admin/admin-metaboxes-form.php:608
+msgid "Enter your video categories"
+msgstr "Nhập thể loại cho video"
+
+#: inc/admin/admin-metaboxes-form.php:618
+msgid "Remove video"
+msgstr "Xóa video"
+
+#: inc/admin/admin-notifications-center.php:687
+msgid "You like SEOPress? Please help us by rating us 5 stars!"
+msgstr "Bạn thích SEOPress? Hãy giúp chúng tôi bằng cách đánh giá 5 sao!"
+
+#: inc/admin/admin-metaboxes-form.php:589
+msgid "Duration in seconds"
+msgstr "Thời gian bằng giây"
+
+#: inc/admin/admin-metaboxes-form.php:593
+msgid "Video Rating"
+msgstr "Đánh giá của video"
+
+#: inc/admin/admin-metaboxes-form.php:595
+msgid "Allowed values are float numbers in the range 0.0 to 5.0."
+msgstr "Giá trị cho phép thập phân từ 0.0 đến 5.0."
+
+#: inc/admin/admin-metaboxes-form.php:582
+msgid "Video Thumbnail (required)"
+msgstr "Ảnh đại diện video (bắt buộc)"
+
+#: inc/admin/admin-metaboxes-form.php:558
+msgid "Video "
+msgstr "Video "
+
+#: inc/admin/admin-metaboxes-form.php:563
+msgid "Enter your video URL"
+msgstr "Nhập URL video"
+
+#: inc/admin/admin-metaboxes-form.php:572
+msgid "Video Title (required)"
+msgstr "Tiêu đề video (bắt buộc)"
+
+#: inc/admin/admin-metaboxes-form.php:583
+msgid "Select your video thumbnail"
+msgstr "Chọn ảnh đại diện video"
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:40
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:52
+msgid "Get suggestions!"
+msgstr "Tìm gợi ý"
+
+#: inc/admin/admin-metaboxes-form.php:85
+msgid "Video Sitemap"
+msgstr "Sitemap video"
+
+#: inc/admin/admin-metaboxes-form.php:538
+msgid "Exclude this post from Video Sitemap?"
+msgstr "Loại bài này ra khỏi sitemap video?"
+
+#: inc/admin/admin-metaboxes-form.php:562
+msgid "Video URL (required)"
+msgstr "URL video (bắt buộc)"
+
+#: inc/admin/admin-metaboxes-form.php:578
+msgid "Enter your video description"
+msgstr "Nhập mô tả video của bạn"
+
+#: inc/admin/admin-metaboxes-form.php:588
+msgid "Video Duration (recommended)"
+msgstr "Độ dài video (nên có)"
+
+#: inc/admin/admin-metaboxes-form.php:590
+msgid "The duration of the video in seconds. Value must be between 0 and 28800 (8 hours)."
+msgstr "Độ dài của video tính bằng giây. Phải từ 0 đến 28800 (8 giờ)."
+
+#: inc/admin/admin-metaboxes-form.php:616
+msgid "The video will be available only to users with SafeSearch turned off."
+msgstr "Video sẽ có sẵn chỉ với người dùng tắt chức năng tìm kiếm an toàn."
+
+#: inc/admin/admin-metaboxes-form.php:577
+msgid "Video Description (required)"
+msgstr "Mô tả video (bắt buộc)"
+
+#: inc/admin/admin-metaboxes-form.php:574
+msgid "Default: title tag, if not available, post title."
+msgstr "Mặc định: tiêu đề, nếu không có sẵn, tiêu đề bài viết."
+
+#: inc/admin/admin-metaboxes-form.php:594
+msgid "Video rating"
+msgstr "Đánh giá của video"
+
+#: inc/admin/admin-metaboxes-form.php:579
+msgid "2048 characters max.; default: meta description. If not available, use the beginning of the post content."
+msgstr "Tối đa 2048 ký tự; mặc định: mô tả nội dung. Nếu không có sẵn, sử dụng phần đầu của nội dung bài."
+
+#: inc/admin/admin.php:4011
+msgid "Enable Image Sitemaps (standard images, image galleries, featured image, WooCommerce product images)"
+msgstr "Bật Sitemap ảnh (hình ảnh tiêu chuẩn, thư viện, ảnh đại diện,  sản phẩm WooCommerce)"
+
+#: inc/admin/admin-metaboxes-form.php:609
+msgid "256 characters max., usually a video will belong to a single category, separate categories with commas. Default: first post category if available."
+msgstr "Tối đa 256 ký tự, thông thường một video sẽ thuộc về một danh mục, ngăn cách bằng dấu phẩy. Mặc định: danh mục đầu tiên nếu có."
+
+#: inc/admin/admin-metaboxes-form.php:604
+msgid "32 tags max., separate tags with commas. Default: target keywords + post tags if available."
+msgstr "Tối đa 32 tag, ngăn cách bằng dấu phẩy. Mặc định: từ khóa mục tiêu + thẻ nếu có."
+
+#: inc/admin/admin-metaboxes-form.php:585
+msgid "Minimum size: 160x90px (1920x1080 max), JPG, PNG or GIF formats. Default: your post featured image."
+msgstr "Cỡ tối thiểu: 160x90px (1920x1080 tối đa), định dạng JPG, PNG hoặc GIF. Mặc định: hình ảnh đại diện cho bài viết của bạn."
+
+#: inc/admin/admin-metaboxes-form.php:568
+msgid "NOT an external video (eg: video hosting on YouTube, Vimeo, Wistia...)? Check this if your video is hosting on this server."
+msgstr "KHÔNG phải video bên ngoài (ví dụ: video lưu trữ trên YouTube, Vimeo, Wistia...)? Kiểm tra nếu video của bạn lưu trữ trên các máy chủ này."
+
+#: inc/admin/admin-metaboxes-form.php:540
+msgid "If your post is set to noindex, it will be automatically excluded from the sitemap."
+msgstr "Nếu bài đăng của bạn được đặt noindex, nó sẽ tự động bị loại khỏi sơ đồ trang web."
+
+#: inc/admin/admin.php:4690 inc/admin/admin-metaboxes-form.php:398
+msgid "Minimum size: 144x144px (300x157px with large card enabled), ideal ratio 1:1 (2:1 with large card), 5Mb max."
+msgstr "Cỡ tối thiểu: 144x144px (300x157px đối với thẻ lớn), tỷ lệ lý tưởng 1:1 (2:1 đối với thẻ lớn), tối đa 5Mb."
+
+#: inc/admin/admin-metaboxes-form.php:614
+msgid "NOT family friendly?"
+msgstr "Nội dung KHÔNG AN TOÀN cho gia đình?"
+
+#: inc/admin/admin-notifications-center.php:936
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: inc/admin/admin-notifications-center.php:946
+msgid "No domain found."
+msgstr "Không tìm thấy tên miền."
+
+#: inc/admin/admin-notifications-center.php:941
+msgid "No scrape."
+msgstr "Không scrape."
+
+#: inc/functions/options-google-analytics.php:250
+msgid "X"
+msgstr "X"
+
+#: inc/admin/admin.php:99
+msgid "%%currenttime%%"
+msgstr "%%currenttime%%"
+
+#: inc/admin/admin.php:98
+msgid "%%currentdate%%"
+msgstr "%%currentdate%%"
+
+#: inc/admin/admin.php:97
+msgid "%%currentyear%%"
+msgstr "%%currentyear%%"
+
+#: inc/admin/admin.php:95
+msgid "%%currentmonth%%"
+msgstr "%%currentmonth%%"
+
+#: inc/admin/admin.php:94
+msgid "%%currentday%%"
+msgstr "%%currentday%%"
+
+#: inc/admin/admin.php:87
+msgid "%%_ct_your_custom_taxonomy_slug%%"
+msgstr "%%_ct_your_custom_taxonomy_slug%%"
+
+#: inc/admin/admin.php:85
+msgid "%%archive_date_year%%"
+msgstr "%%archive_date_year%%"
+
+#: inc/admin/admin.php:84
+msgid "%%archive_date_month%%"
+msgstr "%%archive_date_month%%"
+
+#: inc/admin/admin.php:83
+msgid "%%archive_date_day%%"
+msgstr "%%archive_date_day%%"
+
+#: inc/admin/admin.php:81
+msgid "%%archive_title%%"
+msgstr "%%archive_title%%"
+
+#: inc/admin/admin-dyn-variables-helper.php:46 inc/admin/admin.php:99
+msgid "Current time"
+msgstr "Thời gian hiện tại"
+
+#: inc/admin/admin-dyn-variables-helper.php:44 inc/admin/admin.php:97
+msgid "Current year"
+msgstr "Năm hiện tại"
+
+#: inc/admin/admin-dyn-variables-helper.php:42 inc/admin/admin.php:95
+msgid "Current month"
+msgstr "Tháng hiện tại"
+
+#: inc/admin/admin-dyn-variables-helper.php:41 inc/admin/admin.php:94
+msgid "Current day"
+msgstr "Ngày hiện tại"
+
+#: inc/admin/admin-dyn-variables-helper.php:45 inc/admin/admin.php:98
+msgid "Current date"
+msgstr "Thời gian hiện tại"
+
+#: inc/admin/admin-dyn-variables-helper.php:32 inc/admin/admin.php:85
+msgid "Year Archive title"
+msgstr "Tên Lưu trữ theo năm"
+
+#: inc/admin/admin-dyn-variables-helper.php:31 inc/admin/admin.php:84
+msgid "Month Archive title"
+msgstr "Tên Lưu trữ theo tháng"
+
+#: inc/admin/admin-dyn-variables-helper.php:30 inc/admin/admin.php:83
+msgid "Day Archive date"
+msgstr "Tên Lưu trữ theo ngày"
+
+#: inc/admin/admin-dyn-variables-helper.php:28 inc/admin/admin.php:81
+msgid "Archive title"
+msgstr "Tên mục lưu trữ"
+
+#: inc/admin/admin-metaboxes-form.php:386
+msgid "Preview your Twitter card using the official validator"
+msgstr "Xem trước thẻ Twitter sử dụng trình kiểm tra chính thức"
+
+#: inc/admin/admin-features-list.php:298 inc/admin/admin-header.php:154
+msgid "URL Rewriting"
+msgstr "Viết lại URL"
+
+#: inc/admin/admin.php:776
+msgid "Import completed!"
+msgstr "Nhập hoàn thành!"
+
+#: inc/admin/admin-features-list.php:299
+msgid "Customize your permalinks."
+msgstr "Tùy chỉnh cấu trúc liên kết của bạn."
+
+#: inc/admin/admin.php:1847
+msgid "Consent message for user tracking"
+msgstr "Nội dung thông báo đến người dùng bị theo dõi"
+
+#: inc/admin/admin.php:4817
+msgid "Enter your message (HTML allowed)"
+msgstr "Nhập nội dung (cho phép HTML)"
+
+#: inc/functions/options-google-analytics.php:244 inc/admin/admin.php:4836
+msgid "Accept"
+msgstr "Đồng ý"
+
+#: inc/admin/admin.php:4828
+msgid "HTML tags allowed: strong, em, br, a href / target"
+msgstr "Thẻ HTML cho phép: strong, em, br, a href / target"
+
+#: inc/functions/options-google-analytics.php:231
+msgid "By visiting our site, you agree to our privacy policy regarding cookies, tracking statistics, etc."
+msgstr "Việc ghé thăm website đồng nghĩa bạn cho phép chúng tôi theo dõi cookie, lưu thống kê,..."
+
+#: inc/admin/admin.php:4773
+msgid "Request user's consent for analytics tracking (required by GDPR)"
+msgstr "Yêu cầu sự đồng ý của người dùng để theo dõi phân tích (yêu cầu bởi GDPR)"
+
+#: inc/admin/admin.php:4817
+msgid "This message will only appear if request user's consent is enabled."
+msgstr "Thông báo này sẽ chỉ xuất hiện nếu người dùng đồng ý."
+
+#: inc/admin/admin-dyn-variables-helper.php:34
+msgid "Custom term taxonomy from post, page or post type"
+msgstr "Taxonomy tùy chọn từ bài viết, trang hoặc post type"
+
+#: src/Actions/Admin/ManageColumn.php:70
+msgid "Redirect?"
+msgstr "Chuyển hướng"
+
+#: inc/admin/admin.php:856 inc/admin/admin.php:975
+#: inc/admin/admin-wizard.php:343 inc/admin/admin-wizard.php:451
+#: src/Actions/Admin/ManageColumn.php:73
+msgid "Redirect URL"
+msgstr "URL chuyển hướng "
+
+#: inc/functions/options-advanced-admin.php:687
+msgid "Enable redirection"
+msgstr "Bật chuyển hướng"
+
+#: inc/admin/admin.php:6257
+msgid "Add redirection URL column"
+msgstr "Thêm cột URL chuyển hướng"
+
+#: inc/functions/options-advanced-admin.php:728
+msgid "Disable redirection"
+msgstr "Tắt chuyển hướng"
+
+#: inc/functions/options-advanced-admin.php:714
+msgid "%s redirections enabled."
+msgid_plural "%s redirections enabled."
+msgstr[0] "%s chuyển hướng được kích hoạt."
+
+#: inc/admin/admin.php:6239
+msgid "Add redirection enable column"
+msgstr "Thêm cột bật chuyển hướng"
+
+#: inc/admin/admin.php:2586
+msgid "Show Redirect URL column in post types"
+msgstr "Hiển thị cột URL Chuyển hướng trong post type"
+
+#: inc/admin/admin.php:2578
+msgid "Show Redirection Enable column in post types"
+msgstr "Hiển thị cột Bật Chuyển hướng trong post type"
+
+#: inc/admin/admin-metaboxes-form.php:177
+msgid "This is what your page will look like in Google search results. You have to publish your post to get the Google Snippet Preview."
+msgstr "Đây là hình ảnh hiển thị trang của bạn trên kết quả tìm kiếm Google. Bạn cần xuất bản bài để xem trước Google Snippet Preview."
+
+#: inc/admin/admin-features-list.php:208
+msgid "View your robots.txt"
+msgstr "Xem file robots.txt của bạn"
+
+#: inc/functions/options-advanced-admin.php:929
+msgid "Description"
+msgstr "Mô tả"
+
+#: inc/admin/admin.php:155 inc/admin/admin.php:161 inc/admin/admin.php:184
+#: inc/admin/admin.php:190 inc/admin/admin.php:213 inc/admin/admin.php:219
+#: inc/admin/admin-features-list.php:23 inc/admin/admin-features-list.php:39
+#: inc/admin/admin-features-list.php:55 inc/admin/admin-features-list.php:71
+#: inc/admin/admin-features-list.php:98 inc/admin/admin-features-list.php:117
+#: inc/admin/admin-features-list.php:163 inc/admin/admin-features-list.php:179
+#: inc/admin/admin-features-list.php:195 inc/admin/admin-features-list.php:216
+#: inc/admin/admin-features-list.php:233 inc/admin/admin-features-list.php:252
+#: inc/admin/admin-features-list.php:271 inc/admin/admin-features-list.php:290
+#: inc/admin/admin-features-list.php:338 inc/admin/admin-features-list.php:356
+msgid "Read our guide"
+msgstr "Hướng dẫn"
+
+#: inc/admin/admin.php:148 inc/admin/admin.php:177 inc/admin/admin.php:206
+msgid "How-to"
+msgstr "Làm thế nào"
+
+#: inc/admin/admin.php:2921 inc/admin/admin.php:4097
+msgid "Guide to enable a HTML Sitemap - new window"
+msgstr "Hướng dẫn bật sitemap HTML - cửa sổ mới"
+
+#: inc/admin/admin.php:3993
+msgid "Guide to enable XML Sitemaps - new window"
+msgstr "Hướng dẫn bật sitemap XML - cửa sổ mới"
+
+#: inc/admin/admin.php:5841
+msgid "Add TINYMCE editor to term description"
+msgstr "Thêm trình soạn thảo TinyMCE vào mô tả của term."
+
+#: inc/admin/admin-features-list.php:180
+msgid "Guide to enable Breadcrumbs - new window"
+msgstr "Hướng dẫn bật đường dẫn trang - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:217
+msgid "Guide to edit your robots.txt file - new window"
+msgstr "Hướng dẫn sửa file robots.txt - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:196
+msgid "Guide to analyze your site with Google Page Speed - new window"
+msgstr "Hướng dẫn phân tích web với Google Page Speed - cửa sổ mới"
+
+#: inc/admin/admin.php:2997
+msgid "Guide to create custom dimensions in Google Analytics - new window"
+msgstr "Hướng dẫn tạo kích thước tùy chỉnh trong Google Analytics - của sổ mới"
+
+#: inc/admin/admin-features-list.php:339
+msgid "Guide to Export/Import/Reset settings - new window"
+msgstr "Hướng dẫn Xuất / Nhập / Cài đặt lại - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:357
+msgid "Guide to activate SEOPress PRO - new window"
+msgstr "Hướng dẫn kích hoạt SEOPress PRO - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:72
+msgid "Guide to getting started with Google Analytics - new window"
+msgstr "Hướng dẫn bắt đầu với Google Analytics - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:40
+msgid "Guide to enable your XML Sitemaps - new window"
+msgstr "Hướng dẫn bật sitemap XML - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:56
+msgid "Guide to enable Google Knowledge Graph - new window"
+msgstr "Hướng dẫn bật Google Knowledge Graph - cửa sổ mới"
+
+#: inc/admin/admin-features-list.php:24
+msgid "Guide to manage your titles and meta descriptions - new window"
+msgstr "Hướng dẫn quản lý tiêu đề và mô tả nội dung của bạn - cửa sổ mới"
+
+#: inc/admin/admin.php:201
+msgid "Watch our video to learn how to connect your WordPress site with Google Analytics and get statistics right in your dashboard (PRO only)."
+msgstr "Xem video của chúng tôi để tìm hiểu cách kết nối trang WordPress của bạn với Google Analytics và lấy số liệu thống kê vào bảng điều khiển của bạn (chỉ dành cho PRO)."
+
+#: inc/functions/options-advanced-admin.php:937
+msgid "The description is not prominent by default; however, some themes may show it."
+msgstr "Thông thường mô tả này không được sử dụng trong các giao diện, tuy nhiên có vài giao diện có thể hiển thị mô tả này."
+
+#: inc/admin/admin.php:4021
+msgid "Guide to enable XML image sitemaps - new window"
+msgstr "Hướng dẫn bật sitemap XML hình ảnh - cửa sổ mới"
+
+#: inc/admin/admin.php:2383
+msgid "Add WP Editor to taxonomy description textarea"
+msgstr "Thêm WP Editor vào vùng văn bản mô tả taxonomy"
+
+#: inc/admin/admin-features-list.php:272
+msgid "Guide to enable 301 redirections and 404 monitoring - new window"
+msgstr "Hướng dẫn bật chuyển hướng 301 và theo dõi 404 - cửa sổ mới"
+
+#: inc/functions/options-matomo.php:266
+#: inc/functions/options-google-analytics.php:891
+msgid "Post types"
+msgstr "Post type"
+
+#: inc/functions/options-matomo.php:257
+#: inc/functions/options-google-analytics.php:877
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/functions/options-matomo.php:237
+#: inc/functions/options-google-analytics.php:851
+msgid "Categories"
+msgstr "Danh mục"
+
+#: inc/functions/options-matomo.php:223
+#: inc/functions/options-google-analytics.php:832
+msgid "Authors"
+msgstr "Tác giả"
+
+#: inc/admin/admin.php:4733
+msgid "Enable Google Analytics tracking (Global Site Tag: gtag.js)"
+msgstr "Bật theo dõi Google Analytics (sử dụng gtag.js)"
+
+#: inc/admin/admin.php:4474
+msgid "Twitter Page URL"
+msgstr "Địa chỉ URL Twitter"
+
+#: inc/functions/options-matomo.php:275
+#: inc/functions/options-google-analytics.php:905
+msgid "Connected users"
+msgstr "Người dùng đã kết nối"
+
+#: inc/admin/admin-notifications-center.php:991
+msgid "Dareboost: Test, analyze and optimize your website"
+msgstr "Dareboost: Kiểm tra, thử nghiệm và tối ưu website của bạn"
+
+#: inc/functions/options-advanced-admin.php:804
+#: src/Actions/Admin/ManageColumn.php:76
+msgid "Canonical"
+msgstr "Canonical"
+
+#: inc/admin/admin.php:6275
+msgid "Add canonical URL column"
+msgstr "Thêm cột URL canonical"
+
+#: inc/admin/admin.php:2594
+msgid "Show canonical URL column in post types"
+msgstr "Hiển thị cột canonical URL trong post type"
+
+#: inc/admin/admin.php:1716
+msgid "Facebook Link Ownership ID"
+msgstr "Facebook Link Ownership ID"
+
+#: inc/admin/admin.php:86
+msgid "%%_cf_your_custom_field_name%%"
+msgstr "%%_cf_your_custom_field_name%%"
+
+#: inc/admin/admin-features-list.php:126
+msgid "Improve Easy Digital Downloads SEO"
+msgstr "Cải thiện Easy Digital Downloads SEO"
+
+#: inc/admin/admin-dyn-variables-helper.php:33
+msgid "Custom fields from post, page or post type"
+msgstr "Mục nhập tùy chọn từ bài viết, trang hoặc post type"
+
+#: inc/admin/admin-features-list.php:125 inc/admin/admin-header.php:92
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/admin/admin.php:5985
+msgid "Remove Windows Live Writer meta tag in source code (eg:"
+msgstr "Gỡ bỏ thẻ Windows Live Writer trong code (vd:"
+
+#: inc/admin/admin.php:5967
+msgid "Remove WordPress shortlink meta tag in source code (eg:"
+msgstr "Gỡ bỏ thẻ shortlink WordPress trong code (vd:"
+
+#: inc/admin/admin.php:5895
+msgid "Remove WordPress meta generator in source code"
+msgstr "Gỡ bỏ thẻ generator WordPress trong code"
+
+#: inc/admin/admin.php:2455
+msgid "Remove RSD meta tag"
+msgstr "Gỡ bỏ thẻ RSD"
+
+#: inc/admin/admin.php:2447
+msgid "Remove Windows Live Writer meta tag"
+msgstr "Gỡ bỏ thẻ meta tag Windows Live Writer"
+
+#: inc/admin/admin-metaboxes-form.php:108
+msgid "to edit your title and meta description"
+msgstr "để sửa tiêu đề và thẻ mô tả"
+
+#: inc/admin/admin.php:6003
+msgid "Remove Really Simple Discovery meta tag in source code (eg:"
+msgstr "Xóa thẻ meta Really Simple Discovery trong mã nguồn (ví dụ:"
+
+#: inc/admin/admin.php:2439
+msgid "Remove WordPress shortlink meta tag"
+msgstr "Gỡ bỏ thẻ meta tag WordPress shortlink"
+
+#: inc/admin/admin-metaboxes-form.php:108
+msgid "This is your <strong>Shop page</strong>. Go to <strong>SEO > Titles & Metas > Archives > Products</strong> "
+msgstr "Đây là <strong>Trang bán hàng</strong> của bạn. Vào mục <strong>SEO > Tiêu đề và Meta > Lưu trữ > Sản phẩm</strong> "
+
+#: inc/admin/admin.php:2407
+msgid "Remove WordPress generator meta tag"
+msgstr "Gỡ bỏ thẻ meta tag generator WordPress"
+
+#: src/Services/ContentAnalysis/GetContent.php:230
+msgid "H3 (Heading 3)"
+msgstr "H3 (Tiêu đề 3)"
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:21
+#: inc/admin/page-builders/elementor/inc/controls/class-content-analysis-control.php:43
+msgid "Refresh analysis"
+msgstr "Làm mới phân tích"
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:19
+msgid "Analyze my content"
+msgstr "Phân tích nội dung của tôi"
+
+#: src/Services/ContentAnalysis/GetContent.php:76
+msgid "words found."
+msgstr "từ được tìm thấy"
+
+#: src/Helpers/ContentAnalysis.php:28
+msgid "Words counter"
+msgstr "Đếm từ"
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:16
+msgid "Enter your target keywords"
+msgstr "Nhập từ khóa mục tiêu"
+
+#: inc/functions/options-advanced-admin.php:796 inc/admin/admin.php:694
+#: inc/admin/admin.php:730
+#: inc/admin/admin-metaboxes-content-analysis-form.php:13
+#: inc/admin/admin-metaboxes-content-analysis-form.php:14
+#: inc/admin/admin-metaboxes-content-analysis-form.php:16
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:556
+msgid "Target keywords"
+msgstr "Từ khóa mục tiêu"
+
+#: src/Services/ContentAnalysis/GetContent.php:209
+msgid "H2 (Heading 2)"
+msgstr "H2 (Tiêu đề 2)"
+
+#: src/Services/ContentAnalysis/GetContent.php:172
+msgid "H1 (Heading 1)"
+msgstr "H1 (Tiêu đề 1)"
+
+#: inc/admin/admin.php:2949 inc/admin/admin.php:2963
+msgid "Post thumbnail"
+msgstr "Ảnh bài viết"
+
+#: inc/admin/admin-metaboxes.php:445
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:19
+msgid "Content analysis"
+msgstr "Phân tích nội dung"
+
+#: src/Actions/Admin/ManageColumn.php:79
+msgid "Target Kw"
+msgstr "Target Kw"
+
+#: inc/admin/admin.php:6293
+msgid "Add target keyword column"
+msgstr "Thêm cột từ khóa mục tiêu"
+
+#: src/Services/ContentAnalysis/GetContent.php:724
+msgid "We could not find any image in your content. Content with media is a plus for your SEO."
+msgstr "Chúng tôi không thể tìm thấy bất kỳ ảnh nào trong nội dung của bạn. Nội dung đi kèm với media là một điểm cộng cho SEO của bạn."
+
+#: inc/admin/admin.php:815 inc/admin/admin.php:877 inc/admin/admin.php:954
+#: inc/admin/admin-wizard.php:306 inc/admin/admin-wizard.php:362
+#: inc/admin/admin-wizard.php:431
+msgid "Focus keywords"
+msgstr "Từ khóa chính"
+
+#: src/Helpers/ContentAnalysis.php:73
+msgid "NoFollow Links"
+msgstr "Liên kết NoFollow"
+
+#: src/Services/ContentAnalysis/GetContent.php:717
+msgid "All alternative tags are filled in. Good work!"
+msgstr "Tất cả các thẻ thay thế đã được điền vào. Bạn đã làm tốt!"
+
+#: src/Services/ContentAnalysis/GetContent.php:653
+msgid "nosnippet is on! Search engines will not display a snippet of this page in search results."
+msgstr "nosnippet đang bật! Công cụ tìm kiếm sẽ không hiển thị một đoạn của trang này trong kết quả tìm kiếm."
+
+#: src/Services/ContentAnalysis/GetContent.php:646
+msgid "noarchive is off. Search engines will probably cache your page."
+msgstr "noarchive đang tắt. Công cụ tìm kiếm có thể sẽ lưu trữ trang của bạn."
+
+#: src/Services/ContentAnalysis/GetContent.php:655
+msgid "nosnippet is off. Search engines will display a snippet of this page in search results."
+msgstr "nosnippet đang tắt. Công cụ tìm kiếm sẽ hiển thị một đoạn của trang này trong kết quả tìm kiếm."
+
+#: src/Services/ContentAnalysis/GetContent.php:637
+msgid "nofollow is off. Search engines will follow links on this page."
+msgstr "nofollow đang tắt. Công cụ tìm kiếm sẽ đi theo liên kết trên trang này."
+
+#: src/Services/ContentAnalysis/GetContent.php:635
+msgid "nofollow is on! Search engines can't follow your links on this page."
+msgstr "nofollow đang bật! Công cụ tìm kiếm không thể đi theo liên kết của bạn trên trang này."
+
+#: src/Services/ContentAnalysis/GetContent.php:630
+msgid "noindex is off. Search engines will index this page."
+msgstr "noindex đang tắt. Công cụ tìm kiếm sẽ lập chỉ mục trang này."
+
+#: src/Services/ContentAnalysis/GetContent.php:628
+msgid "noindex is on! Search engines can't index this page."
+msgstr "noindex đang bật! Công cụ tìm kiếm không thể lập chỉ mục trang này."
+
+#: src/Services/ContentAnalysis/GetContent.php:667
+msgid "noimageindex is on! Google will not index your images on this page (but if someone makes a direct link to one of your image in this page, it will be indexed)."
+msgstr "noimageindex đang bật! Google sẽ không lập chỉ mục ảnh của bạn trên trang này (nhưng nếu ai đó tạo liên kết trực tiếp đến một trong những ảnh của bạn trong trang này, nó sẽ được lập chỉ mục)."
+
+#: src/Services/ContentAnalysis/GetContent.php:669
+#: src/Services/ContentAnalysis/GetContent.php:681
+msgid "noimageindex is off. Google will index the images on this page."
+msgstr "noimageindex đang tắt. Google sẽ lập chỉ mục các ảnh trên trang này."
+
+#: src/Services/ContentAnalysis/GetContent.php:644
+msgid "noarchive is on! Search engines will not cache your page."
+msgstr "noarchive đang bật! Công cụ tìm kiếm sẽ không lưu trữ trang của bạn."
+
+#: src/Services/ContentAnalysis/GetContent.php:741
+msgid "We found %d links with nofollow attribute in your page. Do not overuse nofollow attribute in links. Below, the list:"
+msgstr "Chúng tôi đã tìm thấy %d liên kết với thuộc tính nofollow trong trang của bạn. Đừng lạm dụng thuộc tính nofollow trong các liên kết. Dưới đây là danh sách:"
+
+#: src/Services/ContentAnalysis/GetContent.php:752
+msgid "This page doesn't have any nofollow links."
+msgstr "Trang này không có bất kỳ liên kết nofollow nào."
+
+#: src/Services/ContentAnalysis/GetContent.php:286
+msgid "Your custom title is too long."
+msgstr "Tiêu đề của bạn quá dài."
+
+#: inc/admin/admin.php:670 inc/admin/admin.php:706
+#: inc/admin/admin-metaboxes-form.php:116 src/Helpers/ContentAnalysis.php:48
+msgid "Meta title"
+msgstr "Thẻ tiêu đề"
+
+#: src/Services/ContentAnalysis/GetContent.php:281
+msgid "None of your target keywords were found in the Meta Title."
+msgstr "Không có từ khóa mục tiêu trong thẻ Tiêu đề."
+
+#: src/Services/ContentAnalysis/GetContent.php:332
+msgid "You custom meta description is too long."
+msgstr "Thẻ mô tả quá dài."
+
+#: src/Services/ContentAnalysis/GetContent.php:335
+msgid "The length of your meta description is correct"
+msgstr "Độ dài của thẻ mô tả đạt"
+
+#: src/Services/ContentAnalysis/GetContent.php:289
+msgid "The length of your title is correct"
+msgstr "Độ dài tiêu đề đạt"
+
+#: src/Services/ContentAnalysis/GetContent.php:194
+msgid "We found %d Heading 1 (H1) in your content."
+msgstr "Tìm thấy %d Heading 1 (H1) trong nội dung."
+
+#: src/Services/ContentAnalysis/GetContent.php:244
+msgid "None of your target keywords were found in Heading 3 (H3)."
+msgstr "Không tìm thấy từ khóa mục tiêu trong Heading 3 (H3)."
+
+#: src/Services/ContentAnalysis/GetContent.php:232
+msgid "Target keywords were found in Heading 3 (H3)."
+msgstr "Tìm thấy từ khóa mục tiêu trong Heading 3 (H3)."
+
+#: src/Services/ContentAnalysis/GetContent.php:223
+msgid "None of your target keywords were found in Heading 2 (H2)."
+msgstr "Không tìm thấy từ khóa mục tiêu trong Heading 2 (H2)."
+
+#: src/Services/ContentAnalysis/GetContent.php:211
+msgid "Target keywords were found in Heading 2 (H2)."
+msgstr "Tìm thấy từ khóa mục tiêu trong Heading 2 (H2)."
+
+#: src/Services/ContentAnalysis/GetContent.php:267
+msgid "Target keywords were found in the Meta Title."
+msgstr "Tìm thấy từ khóa mục tiêu trong thẻ Tiêu đề."
+
+#: src/Services/ContentAnalysis/GetContent.php:313
+msgid "Target keywords were found in the Meta description."
+msgstr "Tìm thấy từ khóa mục tiêu trong thẻ Mô tả nội dung."
+
+#: src/Services/ContentAnalysis/GetContent.php:189
+#: src/Services/ContentAnalysis/GetContent.php:219
+#: src/Services/ContentAnalysis/GetContent.php:240
+#: src/Services/ContentAnalysis/GetContent.php:275
+#: src/Services/ContentAnalysis/GetContent.php:321
+msgid "%s was found %d times."
+msgstr "%s được tìm thấy %d lần."
+
+#: src/Services/ContentAnalysis/GetContent.php:82
+msgid "Your content is too short. Add a few more paragraphs!"
+msgstr "Nội dung của bạn quá ngắn. Hãy thêm một vài đoạn nữa!"
+
+#: src/Services/ContentAnalysis/GetContent.php:77
+msgid "unique words found."
+msgstr "từ duy nhất được tìm thấy."
+
+#: inc/admin/admin-metaboxes-content-analysis-form.php:6
+msgid "Enter a few keywords for analysis to help you write optimized content."
+msgstr "Nhập một vài từ khóa để phân tích sẽ giúp bạn viết nội dung tối ưu hóa."
+
+#: inc/admin/admin.php:2710
+msgid "Block Content analysis metabox to user roles"
+msgstr "Chặn metabox phân tích nội dung theo vai trò của người dùng"
+
+#: inc/admin/admin.php:2602
+msgid "Show Target Keyword column in post types"
+msgstr "Hiển thị cột Từ khóa mục tiêu trong post type"
+
+#: src/Services/ContentAnalysis/GetContent.php:80
+msgid "Your content is composed of more than 300 words, which is the minimum for a post."
+msgstr "Nội dung của bạn bao gồm hơn 300 từ, hơn mức tối thiểu cho bài viết."
+
+#: src/Services/ContentAnalysis/GetContent.php:327
+msgid "None of your target keywords were found in the Meta description."
+msgstr "Không tìm thấy từ khóa mục tiêu nào trong thẻ mô tả nội dung."
+
+#: inc/admin/admin-metaboxes-form.php:308
+#: inc/admin/admin-metaboxes-form.php:312
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:299
+msgid "Custom breadcrumbs"
+msgstr "Đường dẫn trang tùy chỉnh"
+
+#: inc/admin/admin.php:70
+msgid "%%post_tag%%"
+msgstr "%%post_tag%%"
+
+#: inc/admin/admin.php:69
+msgid "%%post_category%%"
+msgstr "%%post_category%%"
+
+#: inc/admin/admin-dyn-variables-helper.php:17 inc/admin/admin.php:70
+msgid "Post tag"
+msgstr "Thẻ bài viết"
+
+#: inc/admin/admin-dyn-variables-helper.php:16 inc/admin/admin.php:69
+msgid "Post category"
+msgstr "Danh mục Bài viết"
+
+#: inc/admin/admin.php:5859
+msgid "You have to flush your permalinks each time you change this settings"
+msgstr "Bạn phải lưu lại cấu trúc liên kết mỗi khi thay đổi cài đặt này."
+
+#: inc/admin/admin-header.php:227
+msgid "Follow us on YouTube"
+msgstr "Theo dõi chúng tôi trên YouTube"
+
+#: inc/admin/admin.php:1757
+msgid "Use Open Graph if no Twitter Card is filled"
+msgstr "Sử dụng Open Graph nếu không có Thẻ Twitter nào được điền"
+
+#: inc/admin/admin.php:4672
+msgid "Use OG if no Twitter Cards"
+msgstr "Sử dụng OG nếu không có Thẻ Twitter nào"
+
+#: inc/admin/admin.php:90
+msgid "%%wc_single_short_desc%%"
+msgstr "%%wc_single_short_desc%%"
+
+#: inc/admin/admin.php:89
+msgid "%%wc_single_tag%%"
+msgstr "%%wc_single_tag%%"
+
+#: inc/admin/admin.php:88
+msgid "%%wc_single_cat%%"
+msgstr "%%wc_single_cat%%"
+
+#: inc/admin/admin-dyn-variables-helper.php:37 inc/admin/admin.php:90
+msgid "Single product short description"
+msgstr "Mô tả ngắn về sản phẩm"
+
+#: inc/admin/admin-dyn-variables-helper.php:36 inc/admin/admin.php:89
+msgid "Single product tag"
+msgstr "Thẻ sản phẩm"
+
+#: inc/admin/admin-dyn-variables-helper.php:35 inc/admin/admin.php:88
+msgid "Single product category"
+msgstr "Danh mục sản phẩm"
+
+#: inc/admin/admin.php:124 inc/admin/admin.php:132
+msgid "Check our website"
+msgstr "Kiểm tra trang web của chúng tôi"
+
+#: inc/admin/admin.php:123 inc/admin/admin.php:131
+msgid "Read our FAQ"
+msgstr "Đọc FAQ của chúng tôi"
+
+#: inc/admin/admin.php:122 inc/admin/admin.php:130
+msgid "Browse our guides"
+msgstr "Xem các hướng dẫn"
+
+#: inc/admin/admin.php:4198
+msgid "You can also use this shortcode:"
+msgstr "Bạn cũng có thể sử dụng shortcode này:"
+
+#: inc/admin/admin.php:1553
+msgid "Disable the display of the publication date"
+msgstr "Tắt hiển thị ngày xuất bản"
+
+#: inc/admin/admin-notifications-center.php:267
+msgid "Your theme doesn't use <strong>add_theme_support('title-tag');</strong>"
+msgstr "Giao diện của bạn không sử dụng <strong>add_theme_support('title-tag');</strong>"
+
+#: inc/admin/admin.php:4284
+msgid "Disable date after each post, page, post type?"
+msgstr "Tắt hiển thị ngày sau mỗi bài, trang, post type?"
+
+#: inc/admin/admin.php:5331
+msgid "aff|go|out"
+msgstr "aff|go|out"
+
+#: inc/functions/sitemap/template-xml-sitemaps-xsl.php:125
+msgid "XML Sitemaps"
+msgstr "Sơ đồ trang web XML"
+
+#: inc/admin/admin.php:2139 inc/admin/admin.php:5331
+msgid "Track affiliate/outbound links"
+msgstr "Theo dõi các liên kết trong / liên kết ngoài"
+
+#: inc/admin/admin.php:2107 inc/admin/admin.php:5272
+msgid "Enable external links tracking"
+msgstr "Bật theo dõi liên kết bên ngoài"
+
+#: inc/admin/admin-notifications-center.php:992
+msgid "Google Campaign URL Builder tool"
+msgstr "Công cụ Google Campaign URL Builder"
+
+#: inc/admin/admin.php:5335
+msgid "Separate each keyword with a pipe \"|\""
+msgstr "Ngăn cách các từ khóa bằng dấu \"|\""
+
+#: inc/admin/admin.php:5320
+msgid "Enable affiliate/outbound tracking"
+msgstr "Bật theo dõi liên kết affiliate / liên kết ngoài"
+
+#: inc/admin/admin.php:2131
+msgid "Enable affiliate/outbound links tracking (eg: aff, go, out, recommends)"
+msgstr "Bật theo dõi liên kết affiliate/ liên kết ngoài (vd: aff, go, out, recommends)"
+
+#: inc/admin/admin.php:3058
+msgid "Looking to edit your blog page?"
+msgstr "Tìm cách để chỉnh sửa trang blog của bạn?"
+
+#: inc/admin/admin-features-list.php:319 inc/admin/admin-header.php:174
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/admin/admin-header.php:215
+msgid "Send feedback"
+msgstr "Gửi phản hồi"
+
+#: inc/admin/admin-header.php:211
+msgid "See the changelog"
+msgstr "Xem nhật ký thay đổi"
+
+#: inc/admin/admin-notifications-center.php:984
+msgid "Upload a list of links to disavow to Google"
+msgstr "Tải lên danh sách các liên kết để từ chối lên Google"
+
+#: inc/admin/admin-notifications-center.php:972
+msgid "Get list"
+msgstr "Nhận danh sách"
+
+#: inc/admin/admin-notifications-center.php:959
+msgid "Number of websites on your server: "
+msgstr "Số lượng trang web trên máy chủ của bạn:"
+
+#: inc/admin/admin-notifications-center.php:956
+msgid "Server IP Address: "
+msgstr "Địa chỉ IP máy chủ:"
+
+#: inc/admin/admin-notifications-center.php:928
+msgid "Check websites setup on your server"
+msgstr "Kiểm tra thiết lập trang web trên máy chủ của bạn"
+
+#: inc/admin/admin-notifications-center.php:54
+#: inc/admin/admin-notifications-center.php:59
+msgid "Useful links"
+msgstr "Liên kết hữu ích"
+
+#: inc/admin/admin-notifications-center.php:53
+msgid "SEO Tools"
+msgstr "Công cụ SEO"
+
+#: inc/admin/admin.php:500 inc/admin/admin.php:510
+msgid "Events"
+msgstr "Sự kiện"
+
+#: inc/admin/admin-header.php:231
+msgid "Official website"
+msgstr "Trang web chính thức"
+
+#: inc/admin/admin.php:5301
+msgid "pdf|docx|pptx|zip"
+msgstr "pdf|docx|pptx|zip"
+
+#: inc/admin/admin.php:5290
+msgid "Enable download tracking"
+msgstr "Cho phép theo dõi lượt tải về"
+
+#: inc/admin/admin.php:2983
+msgid "<p>Track events in Google Analytics.</p>"
+msgstr "<p>Theo dõi các sự kiện trong Google Analytics.</p>"
+
+#: inc/admin/admin.php:2872
+msgid "Your server uses NGINX. If XML Sitemaps doesn't work properly, you need to add this rule to your configuration:"
+msgstr "Máy chủ của bạn sử dụng NGINX. Nếu sơ đồ trang web XML không hoạt động chính xác, bạn cần thêm quy tắc này vào cấu hình của mình:"
+
+#: inc/admin/admin-features-list.php:320
+msgid "Configure default WordPress RSS."
+msgstr "Cấu hình RSS WordPress mặc định."
+
+#: inc/admin/admin.php:6105
+msgid "Low priority"
+msgstr "Ưu tiên thấp"
+
+#: inc/admin/admin.php:6100
+msgid "Normal priority (default)"
+msgstr "Ưu tiên bình thường (mặc định)"
+
+#: inc/admin/admin.php:6095
+msgid "High priority (top)"
+msgstr "Ưu tiên cao (hàng đầu)"
+
+#: inc/admin/admin-features-list.php:263
+msgid "See redirects"
+msgstr "Xem chuyển hướng"
+
+#: inc/admin/admin-features-list.php:282
+msgid "See broken links"
+msgstr "Xem liên kết hỏng"
+
+#: inc/admin/admin.php:3647
+msgid "Disable author archives"
+msgstr "Tắt Lưu trữ theo tác giả"
+
+#: inc/admin/admin.php:3712
+msgid "Disable date archives"
+msgstr "Tắt Lưu trữ theo thời gian"
+
+#: inc/admin/admin.php:3947
+msgid "Add rel next/prev link in head of paginated archive pages"
+msgstr "Thêm liên kết rel next/prev trong phần đầu của trang lưu trữ được phân trang"
+
+#: inc/admin/admin.php:806 inc/admin/admin-wizard.php:297
+msgid "Import posts and terms metadata from Yoast"
+msgstr "Nhập bài viết và term metadata từ Yoast"
+
+#: inc/admin/admin.php:2115
+msgid "Enable downloads tracking (eg: PDF, XLSX, DOCX...)"
+msgstr "Bật theo dõi tải xuống (vd: PDF, XLSX, DOCX...)"
+
+#: inc/admin/admin.php:1414
+msgid "Indicate paginated content to Google"
+msgstr "Thông báo nội dung được phân trang tới Google"
+
+#: inc/admin/admin.php:5305
+msgid "Separate each file type extensions with a pipe \"|\""
+msgstr "Ngăn cách từng loại file bằng dấu \"|\""
+
+#: inc/admin/admin-notifications-center.php:958
+msgid "Last scrape: "
+msgstr "Scrape gần nhất:"
+
+#: src/Actions/Admin/ManageColumn.php:180
+msgid "Analyze this page with Google Page Speed"
+msgstr "Phân tích trang này với Google Page Speed"
+
+#: src/Actions/Admin/ManageColumn.php:176
+msgid "Check code quality of this page"
+msgstr "Kiểm tra chất lượng mã của trang này"
+
+#: src/Actions/Admin/ManageColumn.php:97
+msgid "Page Speed"
+msgstr "Tốc độ trang"
+
+#: src/Actions/Admin/ManageColumn.php:94
+msgid "W3C check"
+msgstr "Kiểm tra W3C"
+
+#: inc/admin/admin.php:6384
+msgid "Display Page Speed column to check performances"
+msgstr "Hiển thị cột Tốc độ tải Trang để kiểm tra hiệu suất"
+
+#: inc/admin/admin.php:6365
+msgid "Display W3C column to check code quality"
+msgstr "Hiển thị cột W3C để kiểm tra chất lượng code"
+
+#: inc/admin/admin.php:2642
+msgid "Show Google Page Speed column in post types"
+msgstr "Hiển thị cột Tốc độ tải trang Google trong post type"
+
+#: inc/admin/admin.php:2634
+msgid "Show W3C validator column in post types"
+msgstr "Hiển thị cột W3C validator trong post type"
+
+#: inc/admin/admin.php:2399 inc/admin/admin.php:5877
+msgid "Disable trailing slash for metas"
+msgstr "Tắt dấu gạch chéo cho thẻ meta"
+
+#: inc/admin/admin.php:5877
+msgid "You must check this box if the structure of your permalinks DOES NOT contain a slash at the end (eg: /%postname%)"
+msgstr "Bạn phải đánh dấu mục này nếu cấu trúc liên kết KHÔNG bao gồm dấu gạch chéo ở cuối cùng (vd: /%postname%)"
+
+#: inc/functions/options-import-export.php:129
+#: inc/functions/options-import-export.php:233
+msgid "Please upload a valid .csv file"
+msgstr "Vui lòng tải lên file .csv hợp lệ"
+
+#: inc/admin/admin.php:6347
+msgid "Display total number of words in content"
+msgstr "Hiển thị tổng số từ trong nội dung"
+
+#: inc/admin/admin.php:4748
+msgid "Find your tracking ID"
+msgstr "Tìm ID theo dõi của bạn"
+
+#: inc/admin/admin-features-list.php:134 inc/admin/admin-header.php:98
+msgid "Local Business"
+msgstr "Địa điểm kinh doanh"
+
+#: inc/admin/admin-features-list.php:135
+msgid "Add Google Local Business data type"
+msgstr "Thêm loại dữ liệu Google Local Business"
+
+#: inc/admin/admin.php:2626
+msgid "Show total number of words column in post types"
+msgstr "Hiển thị cột tổng số từ trong post type"
+
+#: inc/admin/admin-notifications-center.php:748
+msgid "Display more posts per page on homepage and archives"
+msgstr "Hiển thị thêm bài viết mỗi trang trên trang chủ và trang lưu trữ"
+
+#: inc/admin/admin.php:5242
+msgid "Cross domain tracking makes it possible for Analytics to see sessions on two related sites (such as an ecommerce site and a separate shopping cart site) as a single session. This is sometimes called site linking."
+msgstr "Theo dõi cross domain giúp Analytics xem các phiên trên hai website cùng nhau (chẳng hạn như web bán hàng và phần giỏ hàng trên trang khác) như là một phiên. Điều này đôi khi được gọi là liên kết site."
+
+#: inc/admin/admin.php:5173
+msgid "A remarketing audience is a list of cookies or mobile-advertising IDs that represents a group of users you want to re-engage because of their likelihood to convert."
+msgstr "Đối tượng remarketing là danh sách cookie hoặc ID quảng cáo trên thiết bị di động đại diện cho một nhóm người dùng bạn muốn tiếp tục quảng cáo vì khả năng chuyển đổi của họ."
+
+#: inc/admin/admin.php:5219
+msgid "Enhanced Link Attribution improves the accuracy of your In-Page Analytics report by automatically differentiating between multiple links to the same URL on a single page by using link element IDs."
+msgstr "Thuộc tính liên kết nâng cao cải thiện độ chính xác của báo cáo Phân tích trong trang của bạn bằng cách tự động phân biệt giữa nhiều liên kết đến cùng một URL trên một trang bằng cách sử dụng ID phần tử liên kết."
+
+#: inc/admin/admin.php:5196
+msgid "When a customer of Analytics requests IP address anonymization, Analytics anonymizes the address as soon as technically feasible at the earliest possible stage of the collection network."
+msgstr "Khi một khách hàng của Analytics yêu cầu ẩn danh địa chỉ IP, Analytics sẽ ẩn danh địa chỉ đó ngay khi khả thi về mặt kỹ thuật ở giai đoạn sớm nhất có thể của mạng thu thập."
+
+#: inc/admin/admin-features-list.php:205 inc/admin/admin-header.php:129
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: inc/admin/admin.php:39 inc/admin/admin-features-list.php:47
+#: inc/admin/admin-header.php:57 inc/admin/adminbar.php:137
+msgid "Social Networks"
+msgstr "Mạng xã hội"
+
+#: inc/admin/admin-metaboxes-form.php:456
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:500
+msgid "301 Moved Permanently"
+msgstr "301 Moved Permanently"
+
+#: inc/admin/adminbar.php:172
+msgid "BOT"
+msgstr "BOT"
+
+#: inc/admin/admin.php:42 inc/admin/admin-features-list.php:330
+#: inc/admin/admin-header.php:187 inc/admin/adminbar.php:164
+msgid "Tools"
+msgstr "Công cụ"
+
+#: inc/admin/admin.php:36
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+#: inc/admin/admin-metaboxes-form.php:72
+msgid "Redirection"
+msgstr "Chuyển hướng"
+
+#: inc/admin/admin.php:4640
+msgid "How to create a Facebook App ID"
+msgstr "Cách tạo ID ứng dụng Facebook"
+
+#: inc/admin/adminbar.php:208
+msgid "Broken Links"
+msgstr "Liên kết không hoạt động"
+
+#: inc/admin/admin-features-list.php:285
+msgid "Scan"
+msgstr "Quét"
+
+#: inc/admin/admin-features-list.php:280
+msgid "Scan your site to find SEO problems."
+msgstr "Quét trang web của bạn để tìm các vấn đề SEO."
+
+#: inc/admin/admin.php:601
+msgid "Security"
+msgstr "Bảo mật"
+
+#: inc/admin/admin.php:3019
+msgid "<p>Manage security.</p>"
+msgstr "<p>Quản lý bảo mật.</p>"
+
+#: inc/admin/admin-features-list.php:32
+msgid "Manage your XML / Image / Video / HTML Sitemap"
+msgstr "Quản lý sơ đồ trang web XML / Hình ảnh / Video / HTML của bạn"
+
+#: inc/admin/admin.php:2886
+msgid "Noindex content will not be displayed in Sitemaps."
+msgstr "Nội dung noindex sẽ không hiện trong sơ đồ trang web."
+
+#: inc/admin/admin.php:2702
+msgid "Block SEO metabox to user roles"
+msgstr "Chặn mục nhập SEO theo quyền người dùng"
+
+#: inc/admin/admin.php:1447
+msgid "Enable XML Image Sitemaps"
+msgstr "Bật Sitemap ảnh XML"
+
+#: inc/functions/options-advanced-admin.php:638
+msgid "Enable follow"
+msgstr "Bật theo dõi"
+
+#: inc/admin/admin-notifications-center.php:724
+msgid "Disable this!"
+msgstr "Tắt cái này!"
+
+#: inc/admin/admin.php:1008
+msgid "Reset notices"
+msgstr "Đặt lại thông báo"
+
+#: inc/admin/admin.php:1002
+msgid "Reset All Notices From Notifications Center"
+msgstr "Đặt lại tất cả các thông báo từ Trung tâm thông báo"
+
+#: inc/admin/admin.php:502
+msgid "Stats in Dashboard"
+msgstr "Số liệu thống kê trong Bảng điều khiển"
+
+#: inc/functions/options-advanced-admin.php:618
+msgid "%s post to nofollow."
+msgid_plural "%s posts to nofollow."
+msgstr[0] "%s bài viết để nofollow."
+
+#: inc/functions/options-advanced-admin.php:673
+msgid "%s post to follow."
+msgid_plural "%s posts to follow."
+msgstr[0] "%s bài viết để follow."
+
+#: inc/functions/options-advanced-admin.php:584
+msgid "Enable nofollow"
+msgstr "Bật nofollow"
+
+#: inc/functions/options-advanced-admin.php:529
+msgid "Enable index"
+msgstr "Bật index"
+
+#: inc/functions/options-advanced-admin.php:509
+msgid "%s post to noindex."
+msgid_plural "%s posts to noindex."
+msgstr[0] "%s bài viết để noindex."
+
+#: inc/functions/options-advanced-admin.php:564
+msgid "%s post to index."
+msgid_plural "%s posts to index."
+msgstr[0] "%s bài viết để index."
+
+#: inc/functions/options-advanced-admin.php:474
+msgid "Enable noindex"
+msgstr "Bật noindex"
+
+#: inc/admin/admin.php:6441
+msgid "Remove Genesis SEO Metabox"
+msgstr "Gỡ mục nhập SEO Genesis"
+
+#: inc/admin/admin.php:2669
+msgid "Hide Genesis SEO Metabox"
+msgstr "Ẩn mục nhập SEO Genesis"
+
+#: inc/admin/admin-notifications-center.php:717
+msgid "Break comments into pages is ON!"
+msgstr "Tách bình luận thành các trang đang BẬT!"
+
+#: inc/admin/admin-notifications-center.php:591
+msgid "Your RSS feed shows full text!"
+msgstr "RSS Feed đang hiển thị đầy đủ nội dung!"
+
+#: inc/admin/admin.php:5859 inc/admin/admin-wizard.php:805
+msgid "Remove /category/ in your permalinks"
+msgstr "Xóa /category/ trong đường dẫn của bạn"
+
+#: inc/admin/admin.php:2391
+msgid "Remove /category/ in URL"
+msgstr "Xóa /category/ trong URL"
+
+#: inc/admin/admin.php:4207
+msgid "eg: 13, 8, 38"
+msgstr "ví dụ: 13, 8, 38"
+
+#: inc/admin/admin.php:4194
+msgid "eg: 2, 28, 68"
+msgstr "ví dụ: 2, 28, 68"
+
+#: inc/admin/admin.php:2912
+msgid "<p>Create an HTML Sitemap for your visitors and boost your SEO.</p>"
+msgstr "<p>Tạo sơ đồ trang web HTML cho khách truy cập và tăng SEO của bạn.</p>"
+
+#: inc/admin/admin.php:1473 inc/admin/admin.php:4089
+msgid "Enable HTML Sitemap"
+msgstr "Bật sơ đồ trang web HTML"
+
+#: inc/admin/admin.php:38 inc/admin/admin-header.php:51
+#: inc/admin/adminbar.php:131
+msgid "XML / HTML Sitemap"
+msgstr "Sơ đồ trang web XML / HTML"
+
+#: inc/admin/admin.php:1521 inc/admin/admin.php:4194
+msgid "Enter a post, page or custom post type ID(s) to display the sitemap"
+msgstr "Nhập ID của bài viết, trang hoặc post type để hiển thị sitemap"
+
+#: inc/admin/admin.php:4420
+msgid "Roadside assistance"
+msgstr "Hỗ trợ bên ngoài"
+
+#: inc/admin/admin-features-list.php:143 inc/admin/admin-header.php:104
+msgid "Dublin Core"
+msgstr "Dublin Core"
+
+#: inc/admin/admin.php:4410
+msgid "Emergency"
+msgstr "Trường hợp khẩn cấp"
+
+#: inc/admin/admin.php:4395
+msgid "Bill payment"
+msgstr "Thanh toán hóa đơn"
+
+#: inc/admin/admin.php:4390
+msgid "Billing support"
+msgstr "Hỗ trợ thanh toán"
+
+#: inc/admin/admin.php:4385
+msgid "Technical support"
+msgstr "Hỗ trợ kỹ thuật"
+
+#: inc/admin/admin.php:4380
+msgid "Customer support"
+msgstr "Hỗ trợ khách hàng"
+
+#: inc/admin/admin.php:4365
+msgid "eg: +33123456789 (internationalized version required)"
+msgstr "ví dụ: +84123456789 (yêu cầu phiên bản quốc tế hóa)"
+
+#: inc/admin/admin.php:1610
+msgid "Contact option (only for Organizations)"
+msgstr "Tùy chọn liên hệ (chỉ dành cho Tổ chức)"
+
+#: inc/admin/admin.php:1602
+msgid "Contact type (only for Organizations)"
+msgstr "Loại liên hệ (chỉ dành cho Tổ chức)"
+
+#: inc/admin/admin.php:1594 inc/admin/admin.php:4365
+msgid "Organization's phone number (only for Organizations)"
+msgstr "Số điện thoại của tổ chức (chỉ dành cho tổ chức)"
+
+#: inc/admin/admin-features-list.php:153
+msgid "Add data types to your content: articles, courses, recipes, videos, events, products and more."
+msgstr "Thêm các loại dữ liệu vào nội dung của bạn: bài viết, khóa học, công thức nấu ăn, video, sự kiện, sản phẩm và nhiều hơn nữa."
+
+#: inc/admin/admin-features-list.php:152
+msgid "Structured Data Types"
+msgstr "Kiểu dữ liệu có cấu trúc"
+
+#: inc/admin/admin-features-list.php:144
+msgid "Add Dublin Core meta tags"
+msgstr "Thêm thẻ meta Dublin Core"
+
+#: inc/admin/admin.php:4405
+msgid "Credit card support"
+msgstr "Hỗ trợ thẻ tín dụng"
+
+#: inc/admin/admin.php:4400
+msgid "Sales"
+msgstr "Doanh số"
+
+#: inc/admin/admin.php:4425
+msgid "Package tracking"
+msgstr "Theo dõi package"
+
+#: inc/admin/admin.php:4448
+msgid "Toll Free"
+msgstr "Gọi miễn phí"
+
+#: inc/admin/admin.php:4453
+msgid "Hearing impaired supported"
+msgstr "Hỗ trợ khiếm thính"
+
+#: inc/admin/admin.php:4415
+msgid "Baggage tracking"
+msgstr "Baggage tracking"
+
+#: inc/admin/admin.php:5096 inc/admin/admin.php:5147 inc/admin/admin.php:5174
+#: inc/admin/admin.php:5197 inc/admin/admin.php:5220 inc/admin/admin.php:5243
+#: inc/admin/admin-notifications-center.php:275
+#: inc/admin/admin-notifications-center.php:359
+#: inc/admin/admin-notifications-center.php:400
+#: inc/admin/admin-notifications-center.php:464
+#: inc/admin/admin-notifications-center.php:490
+msgid "Learn more"
+msgstr "Xem thêm"
+
+#: inc/admin/admin.php:6329
+msgid "Display nofollow status"
+msgstr "Hiển thị trạng thái nofollow"
+
+#: inc/admin/admin.php:6311
+msgid "Display noindex status"
+msgstr "Hiển thị trạng thái noindex"
+
+#: inc/admin/admin-notifications-center.php:795
+msgid "Do you have a Google My Business page? It's free!"
+msgstr "Bạn có trang Google My Business không? Nó miễn phí!"
+
+#: inc/admin/admin-notifications-center.php:871
+msgid "You have to enter your licence key to get updates and support"
+msgstr "Bạn phải nhập mã giấy phép của mình để được cập nhật và hỗ trợ"
+
+#: inc/admin/admin-notifications-center.php:841
+msgid "Add your site to Search Console!"
+msgstr "Thêm trang web của bạn vào Search Console!"
+
+#: inc/admin/admin-notifications-center.php:834
+msgid "Add your site to Google. It's free!"
+msgstr "Thêm trang web của bạn vào Google. Nó miễn phí!"
+
+#: inc/admin/admin-notifications-center.php:802
+msgid "Create your page now!"
+msgstr "Tạo trang của bạn bây giờ!"
+
+#: inc/admin/admin.php:2610 inc/admin/admin-wizard.php:844
+msgid "Show noindex column in post types"
+msgstr "Hiển thị cột noindex trong post type"
+
+#: inc/admin/admin.php:2618 inc/admin/admin-wizard.php:857
+msgid "Show nofollow column in post types"
+msgstr "Hiển thị cột nofollow trong post type"
+
+#: inc/admin/admin.php:80
+msgid "%%cpt_plural%%"
+msgstr "%%cpt_plural%%"
+
+#: src/Actions/Options/Init.php:259
+msgid "404 - Page not found"
+msgstr "404 - Trang không tồn tại"
+
+#: inc/admin/admin-notifications-center.php:309
+msgid "Migrate!"
+msgstr "Chuyển!"
+
+#: inc/admin/admin.php:819 inc/admin/admin.php:838 inc/admin/admin.php:859
+#: inc/admin/admin.php:880 inc/admin/admin.php:900 inc/admin/admin.php:919
+#: inc/admin/admin.php:937 inc/admin/admin.php:957 inc/admin/admin.php:979
+#: inc/admin/admin-wizard.php:310 inc/admin/admin-wizard.php:327
+#: inc/admin/admin-wizard.php:346 inc/admin/admin-wizard.php:365
+#: inc/admin/admin-wizard.php:383 inc/admin/admin-wizard.php:400
+#: inc/admin/admin-wizard.php:416 inc/admin/admin-wizard.php:434
+#: inc/admin/admin-wizard.php:455
+msgid "Migrate now"
+msgstr "Chuyển ngay"
+
+#: inc/admin/admin-features-list.php:171 inc/admin/admin-header.php:116
+msgid "Breadcrumbs"
+msgstr "Đường dẫn thư mục"
+
+#: inc/admin/admin-features-list.php:172
+msgid "Enable Breadcrumbs for your theme and improve your SEO in SERPs"
+msgstr "Kích hoạt đường dẫn thư mục cho giao diện của bạn và cải thiện SEO trong SERP"
+
+#: inc/admin/admin.php:807 inc/admin/admin.php:829 inc/admin/admin.php:848
+#: inc/admin/admin.php:869 inc/admin/admin.php:890 inc/admin/admin.php:910
+#: inc/admin/admin.php:929 inc/admin/admin.php:947 inc/admin/admin.php:967
+#: inc/admin/admin-wizard.php:298 inc/admin/admin-wizard.php:318
+#: inc/admin/admin-wizard.php:335 inc/admin/admin-wizard.php:354
+#: inc/admin/admin-wizard.php:373 inc/admin/admin-wizard.php:391
+#: inc/admin/admin-wizard.php:408 inc/admin/admin-wizard.php:424
+#: inc/admin/admin-wizard.php:443
+msgid "By clicking Migrate, we'll import:"
+msgstr "Bằng cách click vào Chuyển, chúng tôi sẽ nhập:"
+
+#: inc/admin/admin.php:4443 inc/admin/admin.php:5349 inc/admin/admin.php:5375
+#: inc/admin/admin.php:5401 inc/admin/admin.php:5427 inc/admin/admin.php:5453
+msgid "None"
+msgstr "Không"
+
+#: inc/admin/admin-metaboxes-form.php:513
+msgid "Exclude this post from Google News Sitemap?"
+msgstr "Loại trừ bài viết này khỏi sơ đồ trang web của Google News?"
+
+#: inc/admin/admin.php:3909
+msgid "Do not display a description in the Google search results for all pages."
+msgstr "Không hiển thị mô tả trong kết quả tìm kiếm của Google cho tất cả các trang."
+
+#: inc/admin/admin.php:3889
+msgid "Do not display a \"Cached\" link in the Google search results."
+msgstr "Không hiển thị liên kết \"Bản lưu\" trong kết quả tìm kiếm của Google."
+
+#: inc/admin/admin-metaboxes-form.php:78
+msgid "Google News"
+msgstr "Google News"
+
+#: inc/functions/options-advanced-admin.php:778 inc/admin/admin.php:30
+#: inc/admin/admin-metaboxes-form.php:58 inc/admin/admin-metaboxes.php:172
+#: inc/admin/admin-metaboxes.php:175 inc/admin/adminbar.php:44
+#: inc/admin/page-builders/gutenberg/gutenberg-addon.php:36
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/admin/admin-notifications-center.php:466
+msgid "Low impact"
+msgstr "Tác động thấp"
+
+#: inc/admin/admin-notifications-center.php:463
+msgid "Your site doesn't use an SSL certificate!"
+msgstr "Trang web của bạn không sử dụng chứng chỉ SSL!"
+
+#: inc/admin/admin.php:813 inc/admin/admin-wizard.php:304
+msgid "Meta Robots (noindex, nofollow...)"
+msgstr "Thẻ Meta Robots (noindex, nofollow...)"
+
+#: inc/admin/admin.php:812 inc/admin/admin.php:853 inc/admin/admin.php:874
+#: inc/admin/admin.php:895 inc/admin/admin.php:915 inc/admin/admin.php:934
+#: inc/admin/admin.php:972 inc/admin/admin-wizard.php:303
+#: inc/admin/admin-wizard.php:340 inc/admin/admin-wizard.php:359
+#: inc/admin/admin-wizard.php:378 inc/admin/admin-wizard.php:396
+#: inc/admin/admin-wizard.php:413 inc/admin/admin-wizard.php:448
+msgid "Twitter tags (title, description and image thumbnail)"
+msgstr "Thẻ Twitter (tiêu đề, mô tả và ảnh thu nhỏ)"
+
+#: inc/admin/admin.php:811 inc/admin/admin.php:833 inc/admin/admin.php:852
+#: inc/admin/admin.php:873 inc/admin/admin.php:894 inc/admin/admin.php:914
+#: inc/admin/admin.php:933 inc/admin/admin.php:951 inc/admin/admin.php:971
+#: inc/admin/admin-wizard.php:302 inc/admin/admin-wizard.php:322
+#: inc/admin/admin-wizard.php:339 inc/admin/admin-wizard.php:358
+#: inc/admin/admin-wizard.php:377 inc/admin/admin-wizard.php:395
+#: inc/admin/admin-wizard.php:412 inc/admin/admin-wizard.php:428
+#: inc/admin/admin-wizard.php:447
+msgid "Facebook Open Graph tags (title, description and image thumbnail)"
+msgstr "Thẻ Facebook Open Graph (tiêu đề, mô tả và ảnh thu nhỏ)"
+
+#: inc/admin/admin.php:600
+msgid "Appearance"
+msgstr "Giao diện"
+
+#: inc/admin/admin.php:498 inc/admin/admin.php:509
+msgid "Tracking"
+msgstr "Theo dõi"
+
+#: inc/admin/admin-features-list.php:187 inc/admin/admin-header.php:122
+msgid "Google Page Speed"
+msgstr "Google Page Speed"
+
+#: inc/admin/admin-features-list.php:110
+msgid "Improve WooCommerce SEO"
+msgstr "Cải thiện SEO WooCommerce "
+
+#: inc/admin/admin.php:3869
+msgid "Do not index images from the entire site."
+msgstr "Không lập chỉ mục hình ảnh từ toàn bộ trang web."
+
+#: inc/admin/admin.php:3807
+msgid "Do not display all pages of the site in Google search results and do not display \"Cached\" links in search results."
+msgstr "Không hiển thị tất cả các trang của trang web trong kết quả tìm kiếm của Google và không hiển thị các liên kết \"Bản lưu\" trong kết quả tìm kiếm."
+
+#: inc/admin/admin.php:809 inc/admin/admin.php:831 inc/admin/admin.php:850
+#: inc/admin/admin.php:871 inc/admin/admin.php:892 inc/admin/admin.php:912
+#: inc/admin/admin.php:931 inc/admin/admin.php:949 inc/admin/admin.php:969
+#: inc/admin/admin-wizard.php:300 inc/admin/admin-wizard.php:320
+#: inc/admin/admin-wizard.php:337 inc/admin/admin-wizard.php:356
+#: inc/admin/admin-wizard.php:375 inc/admin/admin-wizard.php:393
+#: inc/admin/admin-wizard.php:410 inc/admin/admin-wizard.php:426
+#: inc/admin/admin-wizard.php:445
+msgid "Title tags"
+msgstr "Thẻ tiêu đề"
+
+#: inc/admin/admin.php:501 inc/admin/admin.php:511
+msgid "Custom Dimensions"
+msgstr "Kích thước tùy chỉnh"
+
+#: inc/admin/admin.php:82
+msgid "Date Archive"
+msgstr "Ngày lưu trữ"
+
+#: inc/admin/admin-features-list.php:225 inc/admin/admin-header.php:136
+msgid "Google News Sitemap"
+msgstr "Sơ đồ trang web Google News"
+
+#: inc/admin/admin-features-list.php:206
+msgid "Edit your robots.txt file"
+msgstr "Chỉnh sửa tệp robot.txt của bạn"
+
+#: inc/admin/admin-features-list.php:188
+msgid "Track your website performance to improve SEO with Google Page Speed"
+msgstr "Theo dõi hiệu suất trang web của bạn để cải thiện SEO với Google Page Speed"
+
+#: inc/admin/admin-features-list.php:109 inc/admin/admin-header.php:86
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/admin.php:255 inc/admin/admin.php:257 inc/admin/admin.php:332
+#: inc/admin/admin.php:334 inc/admin/admin.php:405 inc/admin/admin.php:407
+#: inc/admin/admin.php:480 inc/admin/admin.php:482 inc/admin/admin.php:582
+#: inc/admin/admin.php:584
+msgid "Click to enable this feature"
+msgstr "Click vào đây để bật tính năng này"
+
+#: inc/admin/admin.php:254 inc/admin/admin.php:258 inc/admin/admin.php:331
+#: inc/admin/admin.php:335 inc/admin/admin.php:404 inc/admin/admin.php:408
+#: inc/admin/admin.php:479 inc/admin/admin.php:483 inc/admin/admin.php:581
+#: inc/admin/admin.php:585
+msgid "Click to disable this feature"
+msgstr "Click vào đây để tắt tính năng này"
+
+#: inc/admin/admin-notifications-center.php:354
+#: inc/admin/admin-notifications-center.php:395
+#: inc/admin/admin-notifications-center.php:594
+#: inc/admin/admin-notifications-center.php:659
+#: inc/admin/admin-notifications-center.php:751
+#: inc/admin/admin-notifications-center.php:769
+msgid "Medium impact"
+msgstr "Tác động trung bình"
+
+#: inc/admin/admin-notifications-center.php:170
+#: inc/admin/admin-notifications-center.php:190
+#: inc/admin/admin-notifications-center.php:208
+#: inc/admin/admin-notifications-center.php:238
+#: inc/admin/admin-notifications-center.php:270
+#: inc/admin/admin-notifications-center.php:305
+#: inc/admin/admin-notifications-center.php:434
+#: inc/admin/admin-notifications-center.php:485
+#: inc/admin/admin-notifications-center.php:528
+#: inc/admin/admin-notifications-center.php:547
+#: inc/admin/admin-notifications-center.php:564
+#: inc/admin/admin-notifications-center.php:720
+#: inc/admin/admin-notifications-center.php:798
+#: inc/admin/admin-notifications-center.php:837
+#: inc/admin/admin-notifications-center.php:855
+msgid "High impact"
+msgstr "Tác động mạnh"
+
+#: inc/admin/admin-notifications-center.php:470
+msgid "Buy an SSL!"
+msgstr "Mua một chứng chỉ SSL!"
+
+#: inc/admin/admin.php:2165
+msgid "Track Categories"
+msgstr "Theo dõi chuyên mục"
+
+#: inc/admin/admin.php:2157
+msgid "Track Authors"
+msgstr "Theo dõi tác giả"
+
+#: inc/admin/admin.php:2089 inc/admin/admin.php:5256 inc/admin/admin.php:5591
+msgid "Cross domains"
+msgstr "Tên miền chéo"
+
+#: inc/admin/admin.php:2081 inc/admin/admin.php:5240
+msgid "Enable cross-domain tracking"
+msgstr "Cho phép theo dõi tên miền chéo"
+
+#: inc/admin/admin-features-list.php:348
+#: inc/admin/admin-notifications-center.php:874 inc/admin/admin-header.php:180
+#: inc/admin/adminbar.php:179
+msgid "License"
+msgstr "Giấy phép"
+
+#: inc/admin/admin.php:2073 inc/admin/admin.php:5217
+msgid "Enhanced Link Attribution"
+msgstr "Thuộc tính liên kết nâng cao"
+
+#: inc/admin/admin.php:2065 inc/admin/admin.php:5194
+msgid "Enable IP Anonymization"
+msgstr "Cho phép IP ẩn danh"
+
+#: inc/admin/admin.php:1798 inc/admin/admin.php:2214 inc/admin/admin.php:4744
+msgid "Enter your tracking ID"
+msgstr "Nhập ID theo dõi của bạn"
+
+#: inc/admin/admin.php:1790
+msgid "Enable Google Analytics tracking"
+msgstr "Bật theo dõi bằng Google Analytics"
+
+#: inc/admin/admin-features-list.php:309
+msgid "Edit your htaccess file."
+msgstr "Sửa tập tin htaccess của bạn."
+
+#: inc/admin/admin-features-list.php:308 inc/admin/admin-header.php:167
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: inc/admin/admin-features-list.php:261
+msgid "Monitor 404, create 301, 302 and 307 redirections"
+msgstr "Giám sát liên kết 404, tạo chuyển hướng 301, 302 và 307"
+
+#: inc/admin/admin-features-list.php:226
+msgid "Optimize your site for Google News"
+msgstr "Tối ưu trang web của bạn cho Google News"
+
+#: inc/admin/admin.php:4744
+msgid "Enter your Tracking ID (UA-XXXX-XX)"
+msgstr "Nhập ID theo dõi của bạn (UA-XXXX-XX)"
+
+#: inc/admin/admin.php:3730
+msgid "Search Keywords"
+msgstr "Từ khóa tìm kiếm"
+
+#: inc/admin/admin.php:3426
+msgid "Category Description"
+msgstr "Mô tả chuyên mục"
+
+#: inc/admin/admin-dyn-variables-helper.php:8 inc/admin/admin.php:3142
+#: inc/admin/admin.php:3268 inc/admin/admin.php:4250
+#: inc/admin/admin-metaboxes-form.php:134
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:66
+msgid "Post Title"
+msgstr "Tên bài viết"
+
+#: inc/admin/admin.php:2979
+msgid "<p>Configure your Google Analytics tracking code.</p>"
+msgstr "<p>Cấu hình mã theo dõi Google Analytics của bạn.</p>"
+
+#: inc/admin/admin.php:2310
+msgid "Redirect attachment pages to post parent"
+msgstr "Chuyển hướng trang đính kèm đến bài viết chính"
+
+#: inc/admin/admin.php:2189
+msgid "Track Logged In Users"
+msgstr "Theo dõi người dùng đã đăng nhập"
+
+#: inc/admin/admin.php:6203
+msgid "Add title column"
+msgstr "Thêm cột tiêu đề"
+
+#: inc/functions/options-advanced-admin.php:780
+#: src/Actions/Admin/ManageColumn.php:64
+msgid "Title tag"
+msgstr "Thẻ tiêu đề"
+
+#: inc/admin/admin.php:6221
+msgid "Add meta description column"
+msgstr "Thêm cột mô tả meta"
+
+#: inc/admin/admin.php:3391
+msgid "Tag Title"
+msgstr "Tiêu đề Tag"
+
+#: inc/admin/admin.php:3393 inc/admin/admin-metaboxes-form.php:132
+msgid "Term Title"
+msgstr "Tiêu đề Term"
+
+#: inc/admin/admin.php:3428
+msgid "Tag Description"
+msgstr "Mô tả Tag"
+
+#: inc/admin/admin.php:3430
+msgid "Term Description"
+msgstr "Mô tả Term"
+
+#: inc/admin/admin.php:3519
+msgid "Post Type Archive Name"
+msgstr "Tên lưu trữ Post Type"
+
+#: src/Actions/Admin/ManageColumn.php:67
+msgid "Meta Desc."
+msgstr "Mô tả Meta"
+
+#: inc/admin/admin.php:3046 inc/admin/admin.php:3055 inc/admin/admin.php:3148
+#: inc/admin/admin.php:3271 inc/admin/admin.php:3400 inc/admin/admin.php:3433
+#: inc/admin/admin.php:3525 inc/admin/admin.php:3603 inc/admin/admin.php:3668
+#: inc/admin/admin.php:3733 inc/admin/admin.php:3778
+msgid "More tags"
+msgstr "Thêm tag"
+
+#: inc/admin/admin.php:3389
+msgid "Category Title"
+msgstr "Tiêu đề danh mục"
+
+#: inc/admin/admin.php:3829
+msgid "Do not follow links for all pages."
+msgstr "Không theo dõi liên kết trên tất cả trang."
+
+#: inc/admin/admin.php:2173
+msgid "Track Tags"
+msgstr "Theo dõi thẻ"
+
+#: inc/admin/admin.php:2181
+msgid "Track Post Types"
+msgstr "Theo dõi post type"
+
+#: inc/admin/admin.php:2562 inc/admin/admin-wizard.php:824
+msgid "Show Title tag column in post types"
+msgstr "Hiển thị cột Tiêu đề tag trong post type"
+
+#: inc/admin/admin.php:2570 inc/admin/admin-wizard.php:834
+msgid "Show Meta description column in post types"
+msgstr "Hiển thị cột Thẻ mô tả trong post type"
+
+#: inc/admin/admin-dyn-variables-helper.php:27 inc/admin/admin.php:80
+msgid "Plural Post Type Archive name"
+msgstr "Tên lưu trữ post type số nhiều"
+
+#: inc/admin/admin.php:2057 inc/admin/admin.php:5171
+msgid "Enable remarketing, demographics, and interests reporting"
+msgstr "Bật báo cáo remarketing, demographic và sở thích"
+
+#: inc/admin/admin.php:3849
+msgid "Do not use Open Directory project metadata for titles or excerpts for all pages."
+msgstr "Đừng sử dụng metadata Open Directory với tiêu đề hoặc trích đoạn cho tất cả trang."
+
+#: inc/admin/admin.php:2905
+msgid "Ping Google manually"
+msgstr "Ping Google thủ công"
+
+#: inc/admin/admin.php:2862 inc/admin/admin-notifications-center.php:561
+msgid "Your permalinks are not SEO Friendly! Enable pretty permalinks to fix this."
+msgstr "Đường dẫn của bạn không thân thiện với SEO! Bật đường dẫn đẹp để sửa lỗi này."
+
+#: inc/admin/admin-notifications-center.php:544
+msgid "Your site title is empty!"
+msgstr "Tiêu đề trang web của bạn đang trống!"
+
+#: seopress.php:559
+msgid "GO PRO!"
+msgstr "XEM BẢN PRO!"
+
+#: inc/admin/admin.php:2907
+msgid "Flush permalinks"
+msgstr "Khởi tạo lại liên kết"
+
+#: inc/admin/admin-header.php:235
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/admin/admin.php:2479 inc/admin/admin.php:6035
+msgid "Pinterest site verification"
+msgstr "Xác minh trang web với Pinterest"
+
+#: inc/admin/admin.php:2487 inc/admin/admin.php:6044
+msgid "Yandex site verification"
+msgstr "Xác minh trang web với Yandex"
+
+#: inc/admin/admin.php:2471 inc/admin/admin.php:6025
+msgid "Bing site verification"
+msgstr "Xác minh trang web với Bing"
+
+#: inc/admin/admin.php:2463 inc/admin/admin.php:6014
+msgid "Google site verification"
+msgstr "Xác minh trang web với Google"
+
+#: inc/admin/admin-notifications-center.php:766
+msgid "You don't have an XML Sitemap!"
+msgstr "Bạn không có Sơ đồ trang web XML!"
+
+#: inc/admin/admin-notifications-center.php:174
+#: inc/admin/admin-notifications-center.php:194
+#: inc/admin/admin-notifications-center.php:212
+#: inc/admin/admin-notifications-center.php:243
+#: inc/admin/admin-notifications-center.php:438
+#: inc/admin/admin-notifications-center.php:532
+#: inc/admin/admin-notifications-center.php:551
+#: inc/admin/admin-notifications-center.php:568
+#: inc/admin/admin-notifications-center.php:598
+#: inc/admin/admin-notifications-center.php:663
+#: inc/admin/admin-notifications-center.php:755
+#: inc/admin/admin-notifications-center.php:773
+#: inc/admin/admin-notifications-center.php:859
+#: inc/admin/admin-notifications-center.php:878
+msgid "Fix this!"
+msgstr "Sửa lỗi này!"
+
+#: inc/admin/admin-notifications-center.php:525
+msgid "Your site is not visible to Search Engines!"
+msgstr "Trang web của bạn không hiển thị với Công cụ tìm kiếm!"
+
+#: inc/admin/admin-notifications-center.php:52
+#: inc/admin/admin-notifications-center.php:58
+msgid "Notifications Center"
+msgstr "Trung tâm thông báo"
+
+#: inc/admin/admin.php:6044
+msgid "Enter Yandex meta value site verification"
+msgstr "Nhập thẻ meta Yandex để xác nhận"
+
+#: inc/admin/admin.php:6035
+msgid "Enter Pinterest meta value site verification"
+msgstr "Nhập thẻ meta Pinterest để xác nhận"
+
+#: inc/admin/admin.php:6025
+msgid "Enter Bing meta value site verification"
+msgstr "Nhập thẻ meta Bing để xác nhận"
+
+#: inc/admin/admin.php:6014
+msgid "Enter Google meta value site verification"
+msgstr "Nhập thẻ meta Google để xác nhận"
+
+#: inc/admin/admin.php:78
+msgid "%%current_pagination%%"
+msgstr "%%current_pagination%%"
+
+#: inc/admin/admin.php:77
+msgid "%%search_keywords%%"
+msgstr "%%search_keywords%%"
+
+#: inc/admin/admin.php:76
+msgid "%%term_description%%"
+msgstr "%%term_description%%"
+
+#: inc/admin/admin.php:75
+msgid "%%term_title%%"
+msgstr "%%term_title%%"
+
+#: inc/admin/admin.php:74
+msgid "%%tag_description%%"
+msgstr "%%tag_description%%"
+
+#: inc/admin/admin.php:73
+msgid "%%tag_title%%"
+msgstr "%%tag_title%%"
+
+#: inc/admin/admin.php:72
+msgid "%%_category_description%%"
+msgstr "%%_category_description%%"
+
+#: inc/admin/admin.php:71
+msgid "%%_category_title%%"
+msgstr "%%_category_title%%"
+
+#: inc/admin/admin.php:68
+msgid "%%post_author%%"
+msgstr "%%post_author%%"
+
+#: inc/admin/admin-dyn-variables-helper.php:6 inc/admin/admin.php:59
+#: inc/admin/admin.php:3043 inc/admin/admin.php:3146 inc/admin/admin.php:3270
+#: inc/admin/admin.php:3398 inc/admin/admin.php:3523 inc/admin/admin.php:3602
+#: inc/admin/admin.php:3667 inc/admin/admin.php:3732 inc/admin/admin.php:3776
+#: inc/admin/admin-metaboxes-form.php:136
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:67
+msgid "Site Title"
+msgstr "Tiêu đề trang web"
+
+#: inc/admin/admin-dyn-variables-helper.php:25 inc/admin/admin.php:78
+msgid "Current number page"
+msgstr "Số trang hiện tại"
+
+#: inc/admin/admin-dyn-variables-helper.php:24 inc/admin/admin.php:77
+msgid "Search keywords"
+msgstr "Tìm từ khóa"
+
+#: inc/admin/admin-dyn-variables-helper.php:21 inc/admin/admin.php:74
+msgid "Tag description"
+msgstr "Thẻ mô tả"
+
+#: inc/admin/admin-dyn-variables-helper.php:20 inc/admin/admin.php:73
+msgid "Tag title"
+msgstr "Thẻ tiêu đề"
+
+#: inc/admin/admin-dyn-variables-helper.php:19 inc/admin/admin.php:72
+msgid "Category description"
+msgstr "Mô tả danh mục"
+
+#: inc/admin/admin-dyn-variables-helper.php:18 inc/admin/admin.php:71
+msgid "Category title"
+msgstr "Tiêu đề danh mục"
+
+#: inc/admin/admin-dyn-variables-helper.php:15 inc/admin/admin.php:68
+#: inc/admin/admin.php:3600
+msgid "Post author"
+msgstr "Tác giả"
+
+#: inc/admin/admin-dyn-variables-helper.php:13 inc/admin/admin.php:66
+msgid "Post date"
+msgstr "Ngày đăng"
+
+#: inc/admin/admin-dyn-variables-helper.php:9 inc/admin/admin.php:62
+msgid "Post excerpt"
+msgstr "Tóm tắt bài viết"
+
+#: inc/admin/admin-dyn-variables-helper.php:7 inc/admin/admin.php:60
+#: inc/admin/admin.php:3045 inc/admin/admin.php:3054
+msgid "Tagline"
+msgstr "Khẩu hiệu"
+
+#: inc/admin/admin.php:61
+msgid "Post Title (post, page, custom post type)"
+msgstr "Tên bài viết (bài viết, trang, post type)"
+
+#: inc/admin/admin-dyn-variables-helper.php:22 inc/admin/admin.php:75
+msgid "Term title"
+msgstr "Tiêu đề Term"
+
+#: inc/admin/admin-dyn-variables-helper.php:23 inc/admin/admin.php:76
+msgid "Term description"
+msgstr "Mô tả Term"
+
+#: inc/admin/admin.php:109
+msgid "Templates variables"
+msgstr "Biến template"
+
+#: inc/admin/admin.php:5687
+msgid "Redirect attachment pages to post parent (or homepage if none)"
+msgstr "Chuyển hướng các trang đính kèm đến bài viết chính (hoặc trang chủ nếu không có)"
+
+#: inc/admin/admin.php:3011
+msgid "<p>Advanced SEO options.</p>"
+msgstr "<p>Tùy chọn SEO nâng cao.</p>"
+
+#: inc/admin/admin-features-list.php:80
+msgid "Advanced SEO options for advanced users!"
+msgstr "Tùy chọn SEO nâng cao cho người dùng nâng cao!"
+
+#: inc/admin/admin-metaboxes-form.php:480
+#: inc/admin/admin-metaboxes-form.php:482
+#: inc/admin/admin-metaboxes-form.php:485
+#: inc/admin/admin-metaboxes-form.php:487
+msgid "Test your URL"
+msgstr "Kiểm tra URL của bạn"
+
+#: inc/admin/admin-metaboxes-form.php:454
+#: inc/admin/admin-metaboxes-form.php:462
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:495
+msgid "URL redirection"
+msgstr "Chuyển hướng URL"
+
+#: inc/admin/admin-metaboxes-form.php:450
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:484
+msgid "Enable redirection?"
+msgstr "Cho phép chuyển hướng?"
+
+#: inc/admin/admin.php:646 inc/admin/admin-features-list.php:260
+#: inc/admin/admin-header.php:142 inc/admin/adminbar.php:200
+msgid "Redirections"
+msgstr "Chuyển hướng"
+
+#: inc/admin/admin.php:3222
+msgid "Display date in Google search results?"
+msgstr "Hiển thị ngày trong kết quả tìm kiếm của Google?"
+
+#: inc/admin/admin-metaboxes-form.php:279
+msgid "Default value: "
+msgstr "Giá trị mặc định:"
+
+#: inc/admin/admin.php:644 seopress.php:555
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: inc/functions/options-import-export.php:64
+#: inc/functions/options-import-export.php:133
+#: inc/functions/options-import-export.php:237
+#: inc/functions/options-import-export.php:436
+#: inc/functions/options-import-export.php:505
+msgid "Please upload a file to import"
+msgstr "Vui lòng tải lên tệp tin để nhập"
+
+#: inc/admin/admin.php:4311 inc/admin/admin-wizard.php:529
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: inc/admin/admin.php:4306 inc/admin/admin-wizard.php:524
+msgid "Person"
+msgstr "Cá nhân"
+
+#: inc/admin/admin.php:4137 inc/admin/admin.php:4180
+msgid "Include"
+msgstr "Bao gồm"
+
+#: inc/admin/admin.php:4335
+msgid "Select your logo"
+msgstr "Chọn logo"
+
+#: inc/admin/admin.php:2903
+msgid "View your sitemap"
+msgstr "Xem sơ đồ trang web"
+
+#: inc/admin/admin.php:1749
+msgid "Enable Twitter Card"
+msgstr "Kích hoạt Twitter Card"
+
+#: inc/admin/admin-features-list.php:18 inc/admin/admin-features-list.php:34
+#: inc/admin/admin-features-list.php:50 inc/admin/admin-features-list.php:66
+#: inc/admin/admin-features-list.php:82 inc/admin/admin-features-list.php:93
+#: inc/admin/admin-features-list.php:112 inc/admin/admin-features-list.php:128
+#: inc/admin/admin-features-list.php:137 inc/admin/admin-features-list.php:146
+#: inc/admin/admin-features-list.php:155 inc/admin/admin-features-list.php:174
+#: inc/admin/admin-features-list.php:190 inc/admin/admin-features-list.php:211
+#: inc/admin/admin-features-list.php:228 inc/admin/admin-features-list.php:247
+#: inc/admin/admin-features-list.php:266 inc/admin/admin-features-list.php:301
+#: inc/admin/admin-features-list.php:311 inc/admin/admin-features-list.php:322
+#: inc/admin/admin-features-list.php:333 inc/admin/admin-features-list.php:351
+msgid "Manage"
+msgstr "Quản lý"
+
+#: inc/admin/admin.php:2925
+msgid "<p>Include/Exclude Post Types.</p>"
+msgstr "<p>Bao gồm/ bao gồm các Post Type.</p>"
+
+#: inc/admin/admin.php:348 inc/admin/admin.php:497 inc/admin/admin.php:508
+msgid "General"
+msgstr "Tổng quan"
+
+#: inc/admin/admin.php:349
+msgid "Post Types"
+msgstr "Post Type"
+
+#: inc/admin/admin.php:274 inc/admin/admin.php:350
+msgid "Taxonomies"
+msgstr "Taxonomy"
+
+#: inc/admin/admin.php:1570 inc/admin/admin-wizard.php:512
+msgid "Person or organization"
+msgstr "Cá nhân hoặc tổ chức"
+
+#: inc/admin/admin.php:1765 inc/admin/admin.php:4686
+msgid "Default Twitter Image"
+msgstr "Ảnh mặc định Twitter"
+
+#: inc/admin/admin.php:1732
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: inc/admin/admin.php:1724
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin ID"
+
+#: inc/admin/admin.php:1692 inc/admin/admin.php:4538 inc/admin/admin.php:4591
+msgid "Select a default image"
+msgstr "Chọn ảnh mặc định"
+
+#: inc/admin/admin-metaboxes-form.php:69
+msgid "Social"
+msgstr "Mạng xã hội"
+
+#: inc/admin/admin.php:422
+msgid "Your social accounts"
+msgstr "Tài khoản mạng xã hội của bạn"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seopress.org/"
+msgstr "https://www.seopress.org/"
+
+#: inc/functions/options-import-export.php:59
+#: inc/functions/options-import-export.php:432
+msgid "Please upload a valid .json file"
+msgstr "Vui lòng tải một tệp .json hợp lệ"
+
+#: inc/admin/admin.php:4712
+msgid "Large"
+msgstr "Lớn"
+
+#: inc/admin/admin.php:4707 seopress.php:344
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/admin/admin.php:4654
+msgid "Enable Twitter card"
+msgstr "Bật Twitter Card"
+
+#: inc/admin/admin.php:4526
+msgid "Enable OG data"
+msgstr "Bật dữ liệu OG"
+
+#: inc/admin/admin.php:3155 inc/admin/admin.php:3277 inc/admin/admin.php:3409
+#: inc/admin/admin.php:3532 inc/admin/admin.php:3607 inc/admin/admin.php:3672
+#: inc/admin/admin.php:3737 inc/admin/admin.php:3782
+msgid "Meta description template"
+msgstr "Mẫu mô tả meta"
+
+#: inc/admin/admin.php:3720
+msgid "Search archives"
+msgstr "Tìm trong lưu trữ"
+
+#: inc/admin/admin.php:3655 inc/admin/admin.php:3665
+msgid "Date archives"
+msgstr "Ngày lưu trữ"
+
+#: inc/admin/admin.php:3590
+msgid "Author archives"
+msgstr "Lưu trữ tác giả"
+
+#: inc/admin/admin.php:3767
+msgid "404 archives"
+msgstr "Lưu trữ trang 404"
+
+#: inc/admin/admin.php:3117 inc/admin/admin.php:3258 inc/admin/admin.php:3366
+#: inc/admin/admin.php:3497 inc/admin/admin.php:3592 inc/admin/admin.php:3657
+#: inc/admin/admin.php:3722 inc/admin/admin.php:3769
+msgid "Title template"
+msgstr "Mẫu tiêu đề"
+
+#: inc/admin/admin.php:1667 inc/admin/admin.php:4510
+#: inc/admin/admin-wizard.php:553
+msgid "LinkedIn URL"
+msgstr "Đường dẫn LinkedIn"
+
+#: inc/admin/admin.php:1773
+msgid "Image size for Twitter Summary card"
+msgstr "Kích thước hình ảnh cho Twitter card"
+
+#: inc/admin/admin.php:2866
+msgid "To view your sitemap, enable permalinks (not default one), and save settings to flush them."
+msgstr "Để xem sơ đồ trang web của bạn, hãy bật đường dẫn (không phải mặc định) và lưu cài đặt để xóa chúng."
+
+#: inc/admin/admin.php:2933
+msgid "<p>Configure Google Knowledge Graph.</p>"
+msgstr "<p>Cấu hình Google Knowledge Graph.</p>"
+
+#: inc/admin/admin.php:2942
+msgid "<p>Manage Open Graph data.</p>"
+msgstr "<p>Quản lý dữ Open Graph.</p>"
+
+#: inc/admin/admin.php:2956
+msgid "<p>Manage your Twitter card.</p>"
+msgstr "<p>Quản lý Twitter card của bạn.</p>"
+
+#: inc/admin/admin.php:3040
+msgid "My awesome website"
+msgstr "Trang web tuyệt vời của tôi"
+
+#: inc/admin/admin.php:3051
+msgid "This is a cool website about Wookiees"
+msgstr "Đây là một trang web thú vị về Wookiees"
+
+#: inc/admin/admin.php:1627 inc/admin/admin.php:4465
+msgid "Facebook Page URL"
+msgstr "Đường dẫn trang Facebook"
+
+#: inc/admin/admin.php:1586 inc/admin/admin.php:4335
+#: inc/admin/admin-wizard.php:535
+msgid "Your photo/organization logo"
+msgstr "Ảnh của bạn hoặc logo tổ chức"
+
+#: inc/admin/admin.php:1578 inc/admin/admin.php:4323
+#: inc/admin/admin-wizard.php:532
+msgid "Your name/organization"
+msgstr "Tên bạn/tổ chức"
+
+#: inc/admin/admin.php:1439 inc/admin/admin.php:3985
+msgid "Enable XML Sitemap"
+msgstr "Bật XML Sitemap"
+
+#: inc/admin/admin.php:1139 inc/admin/admin.php:3040
+msgid "Site title"
+msgstr "Tiêu đề trang web"
+
+#: inc/admin/admin-features-list.php:331
+msgid "Import/Export plugin settings from site to site."
+msgstr "Nhập / Xuất cài đặt plugin từ trang này sang trang khác."
+
+#: inc/admin/admin.php:1659 inc/admin/admin.php:4501
+#: inc/admin/admin-wizard.php:550
+msgid "YouTube URL"
+msgstr "Đường dẫn YouTube"
+
+#: inc/admin/admin.php:1651 inc/admin/admin.php:4492
+#: inc/admin/admin-wizard.php:547
+msgid "Instagram URL"
+msgstr "Đường dẫn Instagram"
+
+#: inc/admin/admin.php:1643 inc/admin/admin.php:4483
+#: inc/admin/admin-wizard.php:544
+msgid "Pinterest URL"
+msgstr "Đường dẫn Pinterest"
+
+#: inc/admin/admin.php:1635 inc/admin/admin-wizard.php:541
+msgid "Twitter Username"
+msgstr "Tên người dùng Twitter"
+
+#: inc/admin/admin.php:1684
+msgid "Enable Open Graph Data"
+msgstr "Bật Open Graph Data"
+
+#: inc/admin/admin.php:421
+msgid "Knowledge Graph"
+msgstr "Knowledge Graph"
+
+#: inc/admin/admin.php:752
+msgid "Export the plugin settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr "Xuất cài đặt plugin cho trang web này dưới dạng tệp .json. Điều này cho phép bạn dễ dàng nhập cấu hình vào một trang web khác."
+
+#: inc/admin/admin.php:737 inc/admin/admin.php:757
+msgid "Export"
+msgstr "Xuất"
+
+#: inc/admin/admin.php:766
+msgid "Import the plugin settings from a .json file. This file can be obtained by exporting the settings on another site using the form above."
+msgstr "Nhập cài đặt plugin từ tệp .json. Có thể lấy tệp này bằng cách xuất các cài đặt trên một trang web khác bằng cách sử dụng mẫu ở trên."
+
+#: inc/admin/admin.php:1016
+msgid "Reset All Settings"
+msgstr "Đặt lại tất cả cài đặt"
+
+#: inc/admin/admin.php:774
+msgid "Import"
+msgstr "Nhập"
+
+#: inc/admin/admin.php:1022
+msgid "Reset settings"
+msgstr "Đặt lại cài đặt"
+
+#: inc/admin/admin-notifications-center.php:904 inc/admin/admin-header.php:31
+#: inc/admin/adminbar.php:185
+msgid "PRO"
+msgstr "PRO"
+
+#: seopress.php:494
+msgid "You like SEOPress? Don't forget to rate it 5 stars!"
+msgstr "Bạn thích SEOPress chứ? Đừng quên đánh giá 5 sao nha!"
+
+#: inc/admin/admin-features-list.php:15
+msgid "Titles & metas"
+msgstr "Tiêu đề và metas"
+
+#: inc/admin/admin-wizard.php:993
+msgid "Knowledge base"
+msgstr "Kiến thức cơ bản"
+
+#: inc/admin/admin-header.php:223 seopress.php:1335
+msgid "Follow us on Twitter"
+msgstr "Theo dõi chúng tôi trên Twitter"
+
+#: inc/admin/admin-features-list.php:48
+msgid "Open Graph, Twitter Card, Google Knowledge Graph and more..."
+msgstr "Open Graph, Twitter Card, Google Knowledge Graph và hơn thế nữa..."
+
+#: inc/admin/admin-metaboxes-form.php:333
+#: inc/admin/admin-metaboxes-form.php:334
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:384
+msgid "Facebook Thumbnail"
+msgstr "Ảnh thu nhỏ Facebook"
+
+#: inc/admin/admin-metaboxes-form.php:330
+msgid "Enter your Facebook description"
+msgstr "Nhập mô tả Facebook của bạn"
+
+#: inc/admin/admin.php:4538 inc/admin/admin.php:4591 inc/admin/admin.php:4686
+#: inc/admin/admin-metaboxes-form.php:334
+#: inc/admin/admin-metaboxes-form.php:397
+msgid "Select your default thumbnail"
+msgstr "Chọn hình thu nhỏ mặc định của bạn"
+
+#: inc/admin/admin.php:4337 inc/admin/admin.php:4540 inc/admin/admin.php:4593
+#: inc/admin/admin.php:4688 inc/admin/admin-metaboxes-form.php:336
+#: inc/admin/admin-metaboxes-form.php:399
+#: inc/admin/admin-metaboxes-form.php:584
+msgid "Upload an Image"
+msgstr "Tải ảnh lên"
+
+#: inc/admin/admin-metaboxes-form.php:388
+#: inc/admin/admin-metaboxes-form.php:389
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:411
+#: src/Services/ContentAnalysis/GetContent.php:511
+msgid "Twitter Title"
+msgstr "Tiêu đề Twitter"
+
+#: inc/admin/admin-metaboxes-form.php:392
+#: inc/admin/admin-metaboxes-form.php:393
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:422
+msgid "Twitter description"
+msgstr "Mô tả Twitter"
+
+#: inc/admin/admin-metaboxes-form.php:389
+msgid "Enter your Twitter title"
+msgstr "Nhập tiêu đề Twitter của bạn"
+
+#: inc/admin/admin-metaboxes-form.php:393
+msgid "Enter your Twitter description"
+msgstr "Nhập mô tả Twitter của bạn"
+
+#: inc/admin/admin.php:37 inc/admin/admin-header.php:45
+#: inc/admin/adminbar.php:125
+msgid "Titles & Metas"
+msgstr "Tiêu đề & Metas"
+
+#: inc/admin/admin-metaboxes-form.php:396
+#: inc/admin/admin-metaboxes-form.php:399
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:433
+msgid "Twitter Thumbnail"
+msgstr "Ảnh thu nhỏ Twitter"
+
+#: inc/admin/admin.php:351
+msgid "HTML Sitemap"
+msgstr "HTML Sitemap"
+
+#: inc/admin/admin.php:271
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/admin/admin.php:2863
+msgid "Change this settings"
+msgstr "Thay đổi cài đặt này"
+
+#: inc/admin/admin.php:273
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/admin/admin-metaboxes-form.php:118
+msgid "Enter your title"
+msgstr "Nhập tiêu đề của bạn"
+
+#: inc/admin/admin-metaboxes-form.php:127
+#: inc/admin/admin-metaboxes-form.php:157
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:61
+msgid " (maximum recommended limit)"
+msgstr "(giới hạn tối đa được đề nghị)"
+
+#: inc/admin/admin-metaboxes-form.php:148
+msgid "Enter your meta description"
+msgstr "Nhập mô tả cho thẻ meta của bạn"
+
+#: inc/admin/admin.php:1358 inc/admin/admin.php:3805
+msgid "noindex"
+msgstr "noindex"
+
+#: inc/admin/admin-metaboxes-form.php:174
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:138
+msgid "Google Snippet Preview"
+msgstr "Xem trước Google Snippet"
+
+#: inc/admin/admin.php:1366 inc/admin/admin.php:3827
+msgid "nofollow"
+msgstr "nofollow"
+
+#: inc/admin/admin.php:1382 inc/admin/admin.php:3867
+msgid "noimageindex"
+msgstr "noimageindex"
+
+#: inc/admin/admin.php:1374 inc/admin/admin.php:3847
+msgid "noodp"
+msgstr "noodp"
+
+#: inc/admin/admin.php:1398 inc/admin/admin.php:3907
+msgid "nosnippet"
+msgstr "nosnippet"
+
+#: inc/admin/admin.php:1390 inc/admin/admin.php:3887
+msgid "noarchive"
+msgstr "noarchive"
+
+#: inc/admin/admin.php:691 inc/admin/admin.php:727 inc/admin/admin.php:814
+#: inc/admin/admin.php:855 inc/admin/admin.php:876 inc/admin/admin.php:897
+#: inc/admin/admin.php:953 inc/admin/admin.php:974
+#: inc/admin/admin-wizard.php:305 inc/admin/admin-wizard.php:342
+#: inc/admin/admin-wizard.php:361 inc/admin/admin-wizard.php:380
+#: inc/admin/admin-wizard.php:430 inc/admin/admin-wizard.php:450
+#: inc/admin/admin-metaboxes-form.php:275
+#: inc/admin/admin-metaboxes-form.php:276
+#: inc/admin/admin-metaboxes-form.php:279
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:251
+#: src/Helpers/ContentAnalysis.php:13
+msgid "Canonical URL"
+msgstr "Canonical URL"
+
+#: inc/admin/admin-metaboxes-form.php:326
+msgid "Enter your Facebook title"
+msgstr "Nhập tiêu đề Facebook của bạn"
+
+#: inc/admin/admin-metaboxes-form.php:325
+#: inc/admin/admin-metaboxes-form.php:326
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:362
+msgid "Facebook Title"
+msgstr "Tiêu đề Facebook"
+
+#: inc/admin/admin-metaboxes-form.php:329
+#: inc/admin/admin-metaboxes-form.php:330
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:373
+msgid "Facebook description"
+msgstr "Mô tả Facebook"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: inc/admin/admin-header.php:17
+msgid "SEOPress"
+msgstr "SEOPress"
+
+#: inc/admin/admin.php:41 inc/admin/admin.php:275 inc/admin/admin.php:599
+#: inc/admin/admin-features-list.php:79 inc/admin/admin-metaboxes-form.php:68
+#: inc/admin/admin-header.php:69 inc/admin/adminbar.php:149
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: inc/admin/admin-metaboxes-form.php:67
+msgid "Titles settings"
+msgstr "Cài đặt tiêu đề"
+
+#: inc/admin/admin-metaboxes-form.php:115
+#: inc/admin/admin-metaboxes-form.php:118
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:114
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/admin/admin.php:2929
+msgid "<p>Include/Exclude Taxonomies.</p>"
+msgstr "<p>Thêm/Bớt Taxonomy.</p>"
+
+#: inc/admin/admin.php:272
+msgid "Single Post Types"
+msgstr "Single Post Type"
+
+#: inc/functions/options-advanced-admin.php:788 inc/admin/admin.php:673
+#: inc/admin/admin.php:709 inc/admin/admin.php:810 inc/admin/admin.php:832
+#: inc/admin/admin.php:851 inc/admin/admin.php:872 inc/admin/admin.php:893
+#: inc/admin/admin.php:913 inc/admin/admin.php:932 inc/admin/admin.php:950
+#: inc/admin/admin.php:970 inc/admin/admin.php:1147 inc/admin/admin.php:3051
+#: inc/admin/admin-wizard.php:301 inc/admin/admin-wizard.php:321
+#: inc/admin/admin-wizard.php:338 inc/admin/admin-wizard.php:357
+#: inc/admin/admin-wizard.php:376 inc/admin/admin-wizard.php:394
+#: inc/admin/admin-wizard.php:411 inc/admin/admin-wizard.php:427
+#: inc/admin/admin-wizard.php:446 inc/admin/admin-metaboxes-form.php:145
+#: inc/admin/admin-metaboxes-form.php:146
+#: inc/admin/admin-metaboxes-form.php:148 src/Helpers/ContentAnalysis.php:53
+msgid "Meta description"
+msgstr "Mô tả meta"
+
+#: inc/admin/admin.php:1505
+msgid "Check to INCLUDE Taxonomies"
+msgstr "Đánh dấu để BAO GỒM taxonomy"
+
+#: inc/admin/admin.php:1489
+msgid "Check to INCLUDE Post Types"
+msgstr "Đánh dấu để BAO GỒM post type"
+
+#: inc/admin/admin.php:2844
+msgid "<p>Customize your titles & metas for Single Custom Post Types</p>"
+msgstr "<p> chỉnh tiêu đề và meta cho post type riêng lẻ</p>"
+
+#: inc/admin/admin.php:2848
+msgid "<p>Customize your metas for all pages</p>"
+msgstr "<p>Tùy chỉnh meta cho tất cả trang</p>"
+
+#: inc/admin/admin.php:2856
+msgid "<p>Customize your metas for all archives</p>"
+msgstr "<p>Tùy chỉnh meta cho tất cả trang lưu trữ</p>"
+
+#: inc/admin/admin.php:2852
+msgid "<p>Customize your metas for all taxonomies archives</p>"
+msgstr "<p>Tùy chỉnh meta cho tất cả trang taxonomy</p>"

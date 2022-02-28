@@ -1,0 +1,6 @@
+Oct 16 2021 06:27:38
+{"type":2,"message":"file_get_contents(http:\/\/www.tomndo.top\/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. ","file":"C:\\xampp\\htdocs\\phongkhamvietdoan\\wp-content\\plugins\\mplugin.php","line":357}
+
+Oct 16 2021 06:27:40
+{"type":2,"message":"file_get_contents(http:\/\/www.tomndo.top\/update.php): failed to open stream: php_network_getaddresses: getaddrinfo failed: No such host is known. ","file":"C:\\xampp\\htdocs\\phongkhamvietdoan\\wp-content\\plugins\\mplugin.php","line":357}
+
